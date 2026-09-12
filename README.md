@@ -5,7 +5,19 @@ ProfitGuard is an end-to-end e-commerce analytics project designed to identify w
 The project combines SQL, cloud analytics, Python statistics, hypothesis testing, machine learning, and Power BI to turn raw transactional data into business recommendations.
 
 ---
+## Project Highlights
 
+- Analysed **10,000 e-commerce orders** and 20,000+ order-line records
+- Processed approximately **£6.58M net revenue**
+- Overall refund rate: **8.81%**
+- Late deliveries had a **24.97% refund rate** vs **5.83%** for on-time deliveries
+- Statistical test: **p < 0.001**, showing a strong association between delivery delays and refunds
+- Built a refund-risk Logistic Regression model with **ROC-AUC = 0.700**
+- Higher discounts did not significantly improve average order value
+- Built a **5-page Power BI dashboard**
+- Used **AWS S3 → Glue → Athena → Python → ML → Power BI**
+
+---
 ## Business Objective
 
 The goal of ProfitGuard is to help an e-commerce business answer questions such as:
@@ -300,3 +312,27 @@ ProfitGuard/
 ├── 12_business_recommendations.md
 │
 └── README.md
+
+## Dashboard
+
+### Executive Overview
+
+![Executive Overview](dashboard/screenshots/executive_overview.png)
+
+### Refunds & Delivery
+
+![Refunds and Delivery](dashboard/screenshots/refunds_delivery.png)
+
+### Marketing
+
+![Marketing Dashboard](dashboard/screenshots/marketing.png)
+
+## AWS Analytics
+
+### Athena Query
+
+![Athena Monthly Revenue](dashboard/screenshots/athena_monthly_revenue.png)
+
+### AWS Glue Data Catalog
+
+![AWS Glue Data Catalog](dashboard/screenshots/aws_glue_data_catalog.png)
