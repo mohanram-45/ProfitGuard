@@ -222,40 +222,43 @@ The model is best interpreted as an early-warning screening system rather than a
 
 ---
 
+## AWS Architecture
+
+Raw data was stored in Amazon S3, catalogued using AWS Glue, and analysed using Amazon Athena.
+
+### AWS Glue Data Catalog
+
+![AWS Glue Data Catalog](ScreenShots/aws_glue_data_catalog.png)
+
+### Amazon Athena Query
+
+![Amazon Athena Monthly Revenue Analysis](ScreenShots/athena_monthly_revenue.png)
+
+---
+
 ## Power BI Dashboard
 
-The dashboard contains 5 pages:
+The project includes a 5-page Power BI dashboard.
 
 ### 1. Executive Overview
-- Total Orders
-- Net Revenue
-- Average Order Value
-- Refund Rate
-- Late Delivery Rate
-- Repeat Customer Rate
+
+![Executive Overview](ScreenShots/executive_overview.png)
 
 ### 2. Revenue & Product
-- Monthly Net Revenue
-- Revenue by Category
-- Top 10 Products by Revenue
+
+![Revenue and Product](ScreenShots/revenue_product.png)
 
 ### 3. Refunds & Delivery
-- Refund Rate by Delivery Type
-- Delivery Status Distribution
-- Average Delay by Delivery Status
-- Refund Reasons
+
+![Refunds and Delivery](ScreenShots/refunds_delivery.png)
 
 ### 4. Customers
-- Repeat vs One-Time Customers
-- Customer Segments
-- Top 10 Customers by Orders
-- Customers by Acquisition Channel
+
+![Customers Dashboard](ScreenShots/customers.png)
 
 ### 5. Marketing
-- Marketing Spend by Channel
-- Customers Acquired by Channel
-- Average CAC by Channel
-- Monthly Marketing Spend
+
+![Marketing Dashboard](ScreenShots/marketing.png)
 
 ---
 
@@ -309,30 +312,9 @@ ProfitGuard/
 ├── dashboard/
 │   └── ProfitGuard.pbix
 │
-├── 12_business_recommendations.md
+├── ScreenShots/
+│
+├── business_recommendations.md
 │
 └── README.md
-
-## Dashboard
-
-### Executive Overview
-
-![Executive Overview](dashboard/screenshots/executive_overview.png)
-
-### Refunds & Delivery
-
-![Refunds and Delivery](dashboard/screenshots/refunds_delivery.png)
-
-### Marketing
-
-![Marketing Dashboard](dashboard/screenshots/marketing.png)
-
-## AWS Analytics
-
-### Athena Query
-
-![Athena Monthly Revenue](dashboard/screenshots/athena_monthly_revenue.png)
-
-### AWS Glue Data Catalog
-
-![AWS Glue Data Catalog](dashboard/screenshots/aws_glue_data_catalog.png)
+```
