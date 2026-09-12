@@ -1,0 +1,6 @@
+customer_id,customer_name,city,signup_date,acquisition_channel
+C001,Alice Smith,London,2026-01-10,Google Ads
+C002,James Brown,Luton,2026-01-15,Instagram
+C003,Sarah Khan,Manchester,2026-02-02,Organic
+C004,Daniel Lee,Birmingham,2026-02-20,Google Ads
+C005,Emma Wilson,London,2026-03-01,Referral

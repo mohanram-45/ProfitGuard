@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,status,discount_amount
+O001,C001,2026-03-05,Completed,10
+O002,C002,2026-03-06,Completed,0
+O003,C001,2026-03-20,Completed,20
+O004,C003,2026-04-02,Completed,5
+O005,C004,2026-04-08,Completed,15
+O006,C005,2026-04-12,Completed,0

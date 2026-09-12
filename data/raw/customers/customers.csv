@@ -1,0 +1,2001 @@
+customer_id,customer_name,city,signup_date,acquisition_channel
+C00001,Customer_1,Luton,2025-08-08,Referral
+C00002,Customer_2,Bristol,2026-01-26,Google Ads
+C00003,Customer_3,Birmingham,2025-06-12,Google Ads
+C00004,Customer_4,Manchester,2026-03-15,Organic
+C00005,Customer_5,London,2025-08-08,Email
+C00006,Customer_6,London,2025-09-27,Organic
+C00007,Customer_7,London,2025-04-30,Referral
+C00008,Customer_8,Leeds,2026-01-29,Google Ads
+C00009,Customer_9,Manchester,2025-12-02,Organic
+C00010,Customer_10,Birmingham,2026-02-04,Referral
+C00011,Customer_11,London,2025-07-01,Google Ads
+C00012,Customer_12,Bristol,2025-04-16,Referral
+C00013,Customer_13,Leeds,2025-08-05,Email
+C00014,Customer_14,London,2025-07-24,Referral
+C00015,Customer_15,London,2025-03-11,Organic
+C00016,Customer_16,London,2025-02-13,Referral
+C00017,Customer_17,London,2025-11-25,Google Ads
+C00018,Customer_18,Manchester,2025-10-28,Referral
+C00019,Customer_19,Luton,2025-08-16,Instagram
+C00020,Customer_20,London,2025-07-03,Referral
+C00021,Customer_21,Manchester,2025-04-17,Google Ads
+C00022,Customer_22,London,2025-03-25,Google Ads
+C00023,Customer_23,London,2025-12-04,Organic
+C00024,Customer_24,Luton,2025-09-07,Referral
+C00025,Customer_25,Manchester,2025-12-29,Google Ads
+C00026,Customer_26,Leeds,2026-03-17,Google Ads
+C00027,Customer_27,London,2025-01-21,Referral
+C00028,Customer_28,Manchester,2025-07-15,Instagram
+C00029,Customer_29,Manchester,2025-06-27,Organic
+C00030,Customer_30,London,2026-02-21,Instagram
+C00031,Customer_31,Manchester,2025-01-07,Google Ads
+C00032,Customer_32,London,2025-03-11,Google Ads
+C00033,Customer_33,London,2025-05-07,Organic
+C00034,Customer_34,Bristol,2026-02-03,Organic
+C00035,Customer_35,Bristol,2025-06-09,Organic
+C00036,Customer_36,Leeds,2025-09-05,Instagram
+C00037,Customer_37,London,2025-07-22,Organic
+C00038,Customer_38,London,2025-05-28,Google Ads
+C00039,Customer_39,Birmingham,2025-05-23,Email
+C00040,Customer_40,Luton,2026-03-08,Organic
+C00041,Customer_41,London,2025-07-18,Google Ads
+C00042,Customer_42,Manchester,2026-02-09,Referral
+C00043,Customer_43,London,2026-03-02,Email
+C00044,Customer_44,Bristol,2025-06-03,Instagram
+C00045,Customer_45,London,2026-01-11,Instagram
+C00046,Customer_46,Birmingham,2026-01-19,Referral
+C00047,Customer_47,London,2025-05-22,Google Ads
+C00048,Customer_48,Manchester,2025-11-09,Referral
+C00049,Customer_49,Manchester,2025-06-14,Organic
+C00050,Customer_50,London,2025-11-10,Email
+C00051,Customer_51,Bristol,2025-01-21,Google Ads
+C00052,Customer_52,Leeds,2025-03-23,Instagram
+C00053,Customer_53,Bristol,2025-03-10,Organic
+C00054,Customer_54,Leeds,2025-05-11,Instagram
+C00055,Customer_55,Manchester,2025-03-28,Organic
+C00056,Customer_56,Bristol,2025-08-06,Referral
+C00057,Customer_57,London,2026-02-25,Referral
+C00058,Customer_58,London,2025-11-01,Organic
+C00059,Customer_59,London,2026-02-07,Referral
+C00060,Customer_60,London,2026-01-06,Referral
+C00061,Customer_61,Luton,2025-12-11,Instagram
+C00062,Customer_62,London,2025-12-07,Google Ads
+C00063,Customer_63,Leeds,2026-01-19,Organic
+C00064,Customer_64,Luton,2026-01-31,Organic
+C00065,Customer_65,London,2026-03-21,Google Ads
+C00066,Customer_66,Manchester,2026-03-01,Email
+C00067,Customer_67,London,2025-06-10,Organic
+C00068,Customer_68,Leeds,2025-06-27,Referral
+C00069,Customer_69,London,2025-04-27,Google Ads
+C00070,Customer_70,Bristol,2025-07-15,Google Ads
+C00071,Customer_71,Leeds,2026-01-18,Referral
+C00072,Customer_72,London,2025-11-23,Referral
+C00073,Customer_73,London,2025-03-27,Google Ads
+C00074,Customer_74,Leeds,2025-10-16,Google Ads
+C00075,Customer_75,Birmingham,2025-03-22,Google Ads
+C00076,Customer_76,Birmingham,2025-06-01,Organic
+C00077,Customer_77,Leeds,2025-03-02,Organic
+C00078,Customer_78,London,2025-03-02,Google Ads
+C00079,Customer_79,Luton,2025-12-20,Google Ads
+C00080,Customer_80,London,2025-01-28,Instagram
+C00081,Customer_81,Leeds,2026-03-18,Google Ads
+C00082,Customer_82,Birmingham,2025-02-12,Google Ads
+C00083,Customer_83,London,2025-06-18,Google Ads
+C00084,Customer_84,London,2026-02-27,Instagram
+C00085,Customer_85,London,2025-03-27,Referral
+C00086,Customer_86,London,2025-06-26,Google Ads
+C00087,Customer_87,Birmingham,2025-01-17,Referral
+C00088,Customer_88,Birmingham,2025-04-08,Organic
+C00089,Customer_89,Leeds,2025-07-17,Google Ads
+C00090,Customer_90,Manchester,2025-04-08,Google Ads
+C00091,Customer_91,London,2025-03-06,Google Ads
+C00092,Customer_92,Birmingham,2025-11-26,Instagram
+C00093,Customer_93,Birmingham,2025-12-07,Referral
+C00094,Customer_94,Manchester,2025-01-05,Organic
+C00095,Customer_95,Leeds,2025-01-02,Instagram
+C00096,Customer_96,Manchester,2025-01-22,Instagram
+C00097,Customer_97,Manchester,2025-04-22,Organic
+C00098,Customer_98,Luton,2025-02-26,Organic
+C00099,Customer_99,London,2025-03-07,Google Ads
+C00100,Customer_100,London,2025-11-26,Organic
+C00101,Customer_101,London,2025-04-08,Organic
+C00102,Customer_102,Birmingham,2025-05-24,Organic
+C00103,Customer_103,London,2026-01-03,Google Ads
+C00104,Customer_104,Manchester,2026-03-11,Instagram
+C00105,Customer_105,Bristol,2025-05-05,Instagram
+C00106,Customer_106,London,2025-06-16,Email
+C00107,Customer_107,Luton,2025-03-27,Google Ads
+C00108,Customer_108,Birmingham,2025-03-17,Referral
+C00109,Customer_109,London,2025-12-10,Referral
+C00110,Customer_110,London,2026-02-28,Instagram
+C00111,Customer_111,London,2025-10-21,Google Ads
+C00112,Customer_112,London,2026-03-20,Referral
+C00113,Customer_113,Bristol,2025-02-28,Organic
+C00114,Customer_114,Leeds,2025-05-18,Google Ads
+C00115,Customer_115,Birmingham,2025-04-09,Google Ads
+C00116,Customer_116,Leeds,2025-07-11,Instagram
+C00117,Customer_117,Leeds,2025-08-31,Organic
+C00118,Customer_118,London,2025-11-15,Email
+C00119,Customer_119,Leeds,2025-02-18,Instagram
+C00120,Customer_120,Manchester,2026-03-24,Google Ads
+C00121,Customer_121,Leeds,2025-02-01,Email
+C00122,Customer_122,Leeds,2026-01-26,Google Ads
+C00123,Customer_123,London,2025-10-04,Email
+C00124,Customer_124,London,2025-01-20,Google Ads
+C00125,Customer_125,London,2025-06-03,Organic
+C00126,Customer_126,Luton,2026-01-18,Referral
+C00127,Customer_127,Leeds,2025-03-09,Instagram
+C00128,Customer_128,Leeds,2026-01-01,Referral
+C00129,Customer_129,London,2026-01-07,Email
+C00130,Customer_130,Manchester,2025-08-02,Referral
+C00131,Customer_131,Luton,2025-05-23,Instagram
+C00132,Customer_132,London,2026-01-11,Referral
+C00133,Customer_133,London,2025-08-20,Instagram
+C00134,Customer_134,London,2025-08-01,Google Ads
+C00135,Customer_135,Bristol,2025-03-20,Referral
+C00136,Customer_136,London,2025-08-02,Organic
+C00137,Customer_137,Manchester,2025-04-26,Instagram
+C00138,Customer_138,Birmingham,2025-04-02,Referral
+C00139,Customer_139,Luton,2025-09-27,Instagram
+C00140,Customer_140,Bristol,2026-02-15,Instagram
+C00141,Customer_141,Bristol,2026-01-16,Referral
+C00142,Customer_142,London,2025-06-17,Google Ads
+C00143,Customer_143,Manchester,2025-02-27,Referral
+C00144,Customer_144,London,2025-10-11,Organic
+C00145,Customer_145,London,2025-01-26,Organic
+C00146,Customer_146,London,2026-01-04,Organic
+C00147,Customer_147,Manchester,2026-03-23,Google Ads
+C00148,Customer_148,Manchester,2025-03-07,Google Ads
+C00149,Customer_149,London,2026-02-13,Referral
+C00150,Customer_150,London,2025-09-05,Google Ads
+C00151,Customer_151,Bristol,2025-09-11,Google Ads
+C00152,Customer_152,London,2026-01-22,Organic
+C00153,Customer_153,London,2025-02-13,Google Ads
+C00154,Customer_154,Manchester,2025-04-07,Instagram
+C00155,Customer_155,Bristol,2025-02-11,Organic
+C00156,Customer_156,London,2025-08-15,Organic
+C00157,Customer_157,Birmingham,2025-09-19,Organic
+C00158,Customer_158,Birmingham,2025-06-16,Organic
+C00159,Customer_159,London,2026-03-12,Google Ads
+C00160,Customer_160,Birmingham,2025-10-06,Organic
+C00161,Customer_161,Luton,2025-03-30,Instagram
+C00162,Customer_162,Birmingham,2026-01-14,Referral
+C00163,Customer_163,Birmingham,2025-06-27,Google Ads
+C00164,Customer_164,Manchester,2026-03-03,Email
+C00165,Customer_165,London,2026-02-07,Google Ads
+C00166,Customer_166,Leeds,2025-07-16,Google Ads
+C00167,Customer_167,London,2025-11-03,Email
+C00168,Customer_168,London,2025-09-24,Organic
+C00169,Customer_169,London,2025-09-25,Email
+C00170,Customer_170,Manchester,2025-03-15,Organic
+C00171,Customer_171,Birmingham,2025-01-08,Google Ads
+C00172,Customer_172,London,2026-02-12,Organic
+C00173,Customer_173,Manchester,2025-10-24,Instagram
+C00174,Customer_174,London,2025-06-13,Instagram
+C00175,Customer_175,Birmingham,2025-03-26,Instagram
+C00176,Customer_176,London,2025-03-13,Google Ads
+C00177,Customer_177,Birmingham,2025-02-24,Google Ads
+C00178,Customer_178,Luton,2026-01-28,Organic
+C00179,Customer_179,Bristol,2025-02-16,Google Ads
+C00180,Customer_180,London,2026-02-03,Email
+C00181,Customer_181,London,2026-03-08,Google Ads
+C00182,Customer_182,London,2025-08-26,Referral
+C00183,Customer_183,Bristol,2025-04-14,Referral
+C00184,Customer_184,Leeds,2025-07-29,Google Ads
+C00185,Customer_185,London,2025-02-11,Instagram
+C00186,Customer_186,Birmingham,2025-11-12,Organic
+C00187,Customer_187,Leeds,2025-09-25,Organic
+C00188,Customer_188,Manchester,2026-01-21,Organic
+C00189,Customer_189,Manchester,2025-09-20,Instagram
+C00190,Customer_190,London,2025-12-02,Google Ads
+C00191,Customer_191,London,2026-01-22,Google Ads
+C00192,Customer_192,Leeds,2025-12-31,Google Ads
+C00193,Customer_193,Bristol,2025-09-16,Google Ads
+C00194,Customer_194,Birmingham,2025-10-10,Instagram
+C00195,Customer_195,London,2025-04-24,Referral
+C00196,Customer_196,London,2025-12-29,Organic
+C00197,Customer_197,Birmingham,2025-02-09,Organic
+C00198,Customer_198,Leeds,2026-02-21,Instagram
+C00199,Customer_199,Leeds,2025-08-08,Google Ads
+C00200,Customer_200,Leeds,2025-05-09,Instagram
+C00201,Customer_201,Birmingham,2025-01-08,Google Ads
+C00202,Customer_202,London,2025-04-11,Google Ads
+C00203,Customer_203,London,2026-02-20,Organic
+C00204,Customer_204,Leeds,2026-01-15,Organic
+C00205,Customer_205,Manchester,2025-06-25,Instagram
+C00206,Customer_206,London,2025-04-17,Google Ads
+C00207,Customer_207,London,2025-04-11,Referral
+C00208,Customer_208,Birmingham,2025-09-17,Referral
+C00209,Customer_209,London,2026-01-01,Google Ads
+C00210,Customer_210,London,2025-09-03,Referral
+C00211,Customer_211,Manchester,2025-10-02,Google Ads
+C00212,Customer_212,Birmingham,2025-02-01,Google Ads
+C00213,Customer_213,Birmingham,2025-05-17,Instagram
+C00214,Customer_214,London,2025-01-12,Google Ads
+C00215,Customer_215,Birmingham,2026-01-30,Instagram
+C00216,Customer_216,London,2025-10-29,Organic
+C00217,Customer_217,London,2026-01-10,Instagram
+C00218,Customer_218,Birmingham,2025-01-16,Referral
+C00219,Customer_219,Birmingham,2025-05-09,Referral
+C00220,Customer_220,Leeds,2025-03-04,Instagram
+C00221,Customer_221,Birmingham,2025-04-19,Instagram
+C00222,Customer_222,Manchester,2026-01-10,Instagram
+C00223,Customer_223,London,2025-01-21,Instagram
+C00224,Customer_224,Luton,2025-06-07,Organic
+C00225,Customer_225,London,2025-09-26,Google Ads
+C00226,Customer_226,London,2025-06-11,Google Ads
+C00227,Customer_227,Bristol,2025-09-17,Email
+C00228,Customer_228,Luton,2026-02-16,Google Ads
+C00229,Customer_229,Leeds,2025-04-12,Google Ads
+C00230,Customer_230,Birmingham,2025-08-11,Google Ads
+C00231,Customer_231,Leeds,2025-02-28,Instagram
+C00232,Customer_232,Manchester,2025-09-04,Instagram
+C00233,Customer_233,Manchester,2025-05-08,Organic
+C00234,Customer_234,Manchester,2025-10-10,Google Ads
+C00235,Customer_235,London,2025-11-21,Referral
+C00236,Customer_236,Birmingham,2025-01-25,Google Ads
+C00237,Customer_237,London,2025-05-11,Organic
+C00238,Customer_238,London,2025-12-19,Instagram
+C00239,Customer_239,Birmingham,2025-07-15,Referral
+C00240,Customer_240,London,2025-10-08,Organic
+C00241,Customer_241,Bristol,2026-02-08,Referral
+C00242,Customer_242,Bristol,2026-02-22,Referral
+C00243,Customer_243,Bristol,2025-06-03,Google Ads
+C00244,Customer_244,Luton,2026-01-17,Email
+C00245,Customer_245,London,2025-05-13,Referral
+C00246,Customer_246,Bristol,2025-08-15,Referral
+C00247,Customer_247,Luton,2025-07-08,Instagram
+C00248,Customer_248,Bristol,2025-09-22,Organic
+C00249,Customer_249,Bristol,2026-01-07,Organic
+C00250,Customer_250,Leeds,2026-03-10,Google Ads
+C00251,Customer_251,London,2025-05-14,Organic
+C00252,Customer_252,Luton,2025-07-30,Google Ads
+C00253,Customer_253,Leeds,2025-03-01,Referral
+C00254,Customer_254,London,2026-03-04,Referral
+C00255,Customer_255,London,2026-01-12,Instagram
+C00256,Customer_256,Manchester,2026-01-30,Referral
+C00257,Customer_257,Bristol,2026-03-26,Referral
+C00258,Customer_258,Birmingham,2026-03-07,Google Ads
+C00259,Customer_259,Manchester,2025-12-30,Organic
+C00260,Customer_260,London,2025-12-30,Google Ads
+C00261,Customer_261,Manchester,2025-08-01,Instagram
+C00262,Customer_262,Bristol,2025-08-04,Google Ads
+C00263,Customer_263,London,2025-08-14,Instagram
+C00264,Customer_264,Manchester,2025-05-11,Organic
+C00265,Customer_265,Leeds,2025-03-17,Instagram
+C00266,Customer_266,Birmingham,2025-10-13,Referral
+C00267,Customer_267,Birmingham,2025-10-04,Instagram
+C00268,Customer_268,Birmingham,2025-06-05,Email
+C00269,Customer_269,Luton,2025-09-05,Referral
+C00270,Customer_270,London,2025-08-06,Email
+C00271,Customer_271,Leeds,2025-07-09,Email
+C00272,Customer_272,Leeds,2026-02-21,Referral
+C00273,Customer_273,Leeds,2025-06-12,Instagram
+C00274,Customer_274,Bristol,2025-06-29,Organic
+C00275,Customer_275,Manchester,2025-02-03,Google Ads
+C00276,Customer_276,Manchester,2025-02-10,Instagram
+C00277,Customer_277,Leeds,2025-11-03,Google Ads
+C00278,Customer_278,Birmingham,2026-03-07,Google Ads
+C00279,Customer_279,Birmingham,2025-12-04,Email
+C00280,Customer_280,Leeds,2025-11-10,Referral
+C00281,Customer_281,Leeds,2025-03-16,Referral
+C00282,Customer_282,London,2026-03-17,Google Ads
+C00283,Customer_283,Luton,2025-10-06,Organic
+C00284,Customer_284,London,2025-06-25,Organic
+C00285,Customer_285,Manchester,2026-01-19,Google Ads
+C00286,Customer_286,London,2025-05-30,Organic
+C00287,Customer_287,Manchester,2025-09-30,Organic
+C00288,Customer_288,Manchester,2025-11-21,Email
+C00289,Customer_289,London,2025-04-18,Instagram
+C00290,Customer_290,Manchester,2025-05-19,Google Ads
+C00291,Customer_291,London,2025-12-16,Organic
+C00292,Customer_292,London,2025-09-28,Google Ads
+C00293,Customer_293,Leeds,2025-12-13,Organic
+C00294,Customer_294,Luton,2026-02-23,Email
+C00295,Customer_295,London,2025-10-16,Google Ads
+C00296,Customer_296,Manchester,2025-07-31,Google Ads
+C00297,Customer_297,Birmingham,2026-01-16,Google Ads
+C00298,Customer_298,London,2025-09-29,Organic
+C00299,Customer_299,Birmingham,2026-02-22,Instagram
+C00300,Customer_300,London,2025-03-07,Instagram
+C00301,Customer_301,London,2026-02-28,Instagram
+C00302,Customer_302,Manchester,2025-09-05,Organic
+C00303,Customer_303,Manchester,2025-06-05,Instagram
+C00304,Customer_304,Birmingham,2025-02-16,Instagram
+C00305,Customer_305,Birmingham,2026-02-27,Referral
+C00306,Customer_306,Bristol,2025-07-20,Google Ads
+C00307,Customer_307,Manchester,2025-05-28,Google Ads
+C00308,Customer_308,London,2025-05-04,Instagram
+C00309,Customer_309,Leeds,2025-01-01,Instagram
+C00310,Customer_310,London,2025-09-04,Google Ads
+C00311,Customer_311,Luton,2025-12-09,Google Ads
+C00312,Customer_312,London,2025-05-08,Google Ads
+C00313,Customer_313,London,2025-07-10,Referral
+C00314,Customer_314,Bristol,2025-03-08,Google Ads
+C00315,Customer_315,Leeds,2025-01-04,Email
+C00316,Customer_316,Birmingham,2026-03-18,Google Ads
+C00317,Customer_317,Luton,2026-02-13,Email
+C00318,Customer_318,London,2025-10-30,Referral
+C00319,Customer_319,London,2025-10-21,Google Ads
+C00320,Customer_320,London,2025-05-23,Referral
+C00321,Customer_321,Manchester,2025-07-10,Organic
+C00322,Customer_322,Birmingham,2025-01-21,Email
+C00323,Customer_323,Birmingham,2025-08-15,Instagram
+C00324,Customer_324,London,2025-11-09,Organic
+C00325,Customer_325,Bristol,2025-04-27,Instagram
+C00326,Customer_326,Birmingham,2026-03-13,Email
+C00327,Customer_327,Manchester,2025-10-29,Organic
+C00328,Customer_328,Manchester,2025-05-22,Instagram
+C00329,Customer_329,Luton,2026-02-05,Instagram
+C00330,Customer_330,London,2025-02-08,Referral
+C00331,Customer_331,Luton,2026-01-28,Google Ads
+C00332,Customer_332,Birmingham,2025-12-21,Organic
+C00333,Customer_333,London,2025-09-09,Organic
+C00334,Customer_334,London,2025-11-29,Instagram
+C00335,Customer_335,London,2025-07-26,Google Ads
+C00336,Customer_336,London,2025-07-29,Email
+C00337,Customer_337,Leeds,2025-04-25,Organic
+C00338,Customer_338,Birmingham,2025-08-13,Instagram
+C00339,Customer_339,Manchester,2025-05-14,Organic
+C00340,Customer_340,London,2025-09-08,Organic
+C00341,Customer_341,Manchester,2025-08-07,Google Ads
+C00342,Customer_342,Manchester,2026-02-11,Google Ads
+C00343,Customer_343,London,2026-03-19,Instagram
+C00344,Customer_344,Luton,2025-04-01,Email
+C00345,Customer_345,Luton,2025-12-20,Instagram
+C00346,Customer_346,Manchester,2026-01-11,Email
+C00347,Customer_347,Birmingham,2025-02-15,Referral
+C00348,Customer_348,London,2025-02-07,Instagram
+C00349,Customer_349,Luton,2025-05-22,Referral
+C00350,Customer_350,Birmingham,2025-04-10,Instagram
+C00351,Customer_351,Manchester,2025-11-24,Organic
+C00352,Customer_352,Leeds,2025-07-09,Instagram
+C00353,Customer_353,Birmingham,2025-02-04,Organic
+C00354,Customer_354,London,2025-05-27,Instagram
+C00355,Customer_355,London,2025-01-30,Instagram
+C00356,Customer_356,Birmingham,2025-11-30,Organic
+C00357,Customer_357,London,2025-03-25,Organic
+C00358,Customer_358,Manchester,2026-01-04,Email
+C00359,Customer_359,Bristol,2025-10-08,Instagram
+C00360,Customer_360,Manchester,2026-02-28,Organic
+C00361,Customer_361,Luton,2025-12-10,Instagram
+C00362,Customer_362,Birmingham,2025-09-27,Instagram
+C00363,Customer_363,Manchester,2025-06-03,Google Ads
+C00364,Customer_364,Manchester,2025-04-12,Email
+C00365,Customer_365,Bristol,2025-08-03,Instagram
+C00366,Customer_366,Luton,2025-05-30,Google Ads
+C00367,Customer_367,Bristol,2026-03-08,Referral
+C00368,Customer_368,Bristol,2025-03-24,Referral
+C00369,Customer_369,London,2025-04-20,Organic
+C00370,Customer_370,London,2026-03-11,Organic
+C00371,Customer_371,London,2026-01-22,Organic
+C00372,Customer_372,London,2026-03-02,Instagram
+C00373,Customer_373,London,2025-10-02,Instagram
+C00374,Customer_374,Birmingham,2025-07-20,Instagram
+C00375,Customer_375,London,2025-10-11,Email
+C00376,Customer_376,London,2025-06-22,Referral
+C00377,Customer_377,Leeds,2025-11-23,Organic
+C00378,Customer_378,London,2025-07-25,Google Ads
+C00379,Customer_379,Leeds,2025-03-04,Google Ads
+C00380,Customer_380,London,2025-03-14,Google Ads
+C00381,Customer_381,London,2025-09-08,Instagram
+C00382,Customer_382,Birmingham,2025-05-04,Referral
+C00383,Customer_383,Birmingham,2026-01-10,Google Ads
+C00384,Customer_384,Leeds,2025-05-01,Instagram
+C00385,Customer_385,Birmingham,2025-10-02,Referral
+C00386,Customer_386,Leeds,2026-03-07,Google Ads
+C00387,Customer_387,London,2026-02-02,Organic
+C00388,Customer_388,London,2025-04-30,Google Ads
+C00389,Customer_389,Birmingham,2026-02-26,Organic
+C00390,Customer_390,Leeds,2026-03-13,Email
+C00391,Customer_391,Bristol,2025-11-13,Organic
+C00392,Customer_392,Luton,2025-06-13,Google Ads
+C00393,Customer_393,Luton,2026-02-28,Google Ads
+C00394,Customer_394,Leeds,2025-10-13,Email
+C00395,Customer_395,London,2025-09-22,Organic
+C00396,Customer_396,Bristol,2025-11-16,Organic
+C00397,Customer_397,Leeds,2025-06-10,Organic
+C00398,Customer_398,Luton,2026-01-11,Organic
+C00399,Customer_399,Birmingham,2025-11-04,Organic
+C00400,Customer_400,Birmingham,2025-03-30,Instagram
+C00401,Customer_401,London,2025-05-22,Organic
+C00402,Customer_402,Bristol,2025-07-22,Organic
+C00403,Customer_403,Manchester,2025-11-05,Referral
+C00404,Customer_404,Leeds,2025-08-15,Google Ads
+C00405,Customer_405,London,2026-03-19,Google Ads
+C00406,Customer_406,Leeds,2025-11-30,Google Ads
+C00407,Customer_407,Luton,2025-08-10,Email
+C00408,Customer_408,London,2025-02-10,Organic
+C00409,Customer_409,Bristol,2025-07-15,Referral
+C00410,Customer_410,London,2025-03-09,Referral
+C00411,Customer_411,London,2025-09-21,Organic
+C00412,Customer_412,Bristol,2025-01-02,Email
+C00413,Customer_413,Bristol,2025-12-27,Organic
+C00414,Customer_414,Manchester,2025-05-05,Organic
+C00415,Customer_415,Birmingham,2025-04-20,Referral
+C00416,Customer_416,Luton,2025-03-27,Instagram
+C00417,Customer_417,London,2026-03-01,Instagram
+C00418,Customer_418,London,2025-04-30,Organic
+C00419,Customer_419,Birmingham,2025-05-07,Google Ads
+C00420,Customer_420,Birmingham,2025-09-12,Referral
+C00421,Customer_421,Leeds,2025-07-02,Google Ads
+C00422,Customer_422,Leeds,2025-01-16,Google Ads
+C00423,Customer_423,London,2025-03-03,Organic
+C00424,Customer_424,Manchester,2026-01-04,Organic
+C00425,Customer_425,London,2026-03-08,Referral
+C00426,Customer_426,Manchester,2025-06-07,Google Ads
+C00427,Customer_427,Luton,2025-09-25,Email
+C00428,Customer_428,Leeds,2025-02-04,Google Ads
+C00429,Customer_429,Luton,2025-09-24,Instagram
+C00430,Customer_430,London,2025-03-05,Organic
+C00431,Customer_431,London,2025-02-19,Google Ads
+C00432,Customer_432,Birmingham,2025-09-12,Organic
+C00433,Customer_433,Manchester,2025-05-29,Google Ads
+C00434,Customer_434,London,2025-11-21,Google Ads
+C00435,Customer_435,London,2025-10-31,Email
+C00436,Customer_436,Birmingham,2025-10-03,Instagram
+C00437,Customer_437,London,2025-12-23,Organic
+C00438,Customer_438,Leeds,2025-06-21,Organic
+C00439,Customer_439,Birmingham,2026-02-21,Organic
+C00440,Customer_440,London,2025-07-20,Instagram
+C00441,Customer_441,London,2026-03-21,Referral
+C00442,Customer_442,Bristol,2026-01-28,Email
+C00443,Customer_443,Luton,2025-11-20,Organic
+C00444,Customer_444,Luton,2025-02-04,Google Ads
+C00445,Customer_445,Leeds,2025-08-04,Google Ads
+C00446,Customer_446,Bristol,2025-03-06,Instagram
+C00447,Customer_447,Bristol,2025-01-08,Instagram
+C00448,Customer_448,Birmingham,2025-10-28,Instagram
+C00449,Customer_449,Luton,2025-12-09,Instagram
+C00450,Customer_450,London,2026-03-07,Organic
+C00451,Customer_451,Leeds,2026-02-28,Referral
+C00452,Customer_452,Manchester,2025-11-28,Organic
+C00453,Customer_453,Luton,2026-03-14,Instagram
+C00454,Customer_454,Bristol,2025-03-17,Google Ads
+C00455,Customer_455,London,2025-06-23,Google Ads
+C00456,Customer_456,Manchester,2025-02-16,Email
+C00457,Customer_457,London,2025-01-15,Referral
+C00458,Customer_458,Manchester,2025-12-27,Referral
+C00459,Customer_459,London,2025-05-27,Google Ads
+C00460,Customer_460,London,2025-01-26,Instagram
+C00461,Customer_461,London,2025-11-04,Google Ads
+C00462,Customer_462,Birmingham,2025-04-03,Referral
+C00463,Customer_463,Birmingham,2026-02-10,Google Ads
+C00464,Customer_464,Manchester,2025-08-20,Email
+C00465,Customer_465,Bristol,2025-01-21,Email
+C00466,Customer_466,Luton,2025-11-03,Instagram
+C00467,Customer_467,London,2025-02-07,Organic
+C00468,Customer_468,Leeds,2025-10-03,Organic
+C00469,Customer_469,London,2025-06-06,Referral
+C00470,Customer_470,Bristol,2025-06-28,Organic
+C00471,Customer_471,London,2025-05-12,Referral
+C00472,Customer_472,Bristol,2025-11-07,Google Ads
+C00473,Customer_473,London,2025-12-14,Google Ads
+C00474,Customer_474,Leeds,2025-01-28,Email
+C00475,Customer_475,Manchester,2025-09-17,Instagram
+C00476,Customer_476,Bristol,2026-02-10,Instagram
+C00477,Customer_477,London,2025-03-17,Instagram
+C00478,Customer_478,Manchester,2026-03-05,Google Ads
+C00479,Customer_479,Bristol,2025-03-08,Referral
+C00480,Customer_480,Manchester,2025-12-08,Organic
+C00481,Customer_481,Birmingham,2025-07-13,Email
+C00482,Customer_482,Birmingham,2025-06-11,Referral
+C00483,Customer_483,Manchester,2025-12-13,Google Ads
+C00484,Customer_484,Birmingham,2026-03-15,Instagram
+C00485,Customer_485,Manchester,2025-12-27,Instagram
+C00486,Customer_486,Bristol,2025-09-14,Google Ads
+C00487,Customer_487,London,2025-03-13,Email
+C00488,Customer_488,London,2025-03-28,Organic
+C00489,Customer_489,Bristol,2026-02-26,Organic
+C00490,Customer_490,Leeds,2025-09-19,Google Ads
+C00491,Customer_491,Manchester,2025-08-02,Google Ads
+C00492,Customer_492,Birmingham,2025-06-02,Instagram
+C00493,Customer_493,London,2025-07-29,Referral
+C00494,Customer_494,London,2026-02-05,Instagram
+C00495,Customer_495,Manchester,2025-03-02,Instagram
+C00496,Customer_496,Luton,2025-09-25,Organic
+C00497,Customer_497,Manchester,2025-09-19,Google Ads
+C00498,Customer_498,London,2025-08-06,Organic
+C00499,Customer_499,Bristol,2025-10-10,Organic
+C00500,Customer_500,Bristol,2025-05-16,Instagram
+C00501,Customer_501,Birmingham,2026-01-15,Organic
+C00502,Customer_502,Manchester,2025-12-28,Organic
+C00503,Customer_503,London,2026-03-25,Organic
+C00504,Customer_504,Leeds,2026-03-17,Email
+C00505,Customer_505,Birmingham,2025-04-03,Email
+C00506,Customer_506,London,2025-04-19,Instagram
+C00507,Customer_507,Bristol,2025-08-29,Email
+C00508,Customer_508,Leeds,2025-12-21,Referral
+C00509,Customer_509,Bristol,2026-02-28,Instagram
+C00510,Customer_510,Birmingham,2025-05-22,Organic
+C00511,Customer_511,Manchester,2025-10-18,Referral
+C00512,Customer_512,Luton,2026-03-08,Instagram
+C00513,Customer_513,Bristol,2025-08-25,Instagram
+C00514,Customer_514,Leeds,2025-12-06,Referral
+C00515,Customer_515,London,2025-11-08,Google Ads
+C00516,Customer_516,London,2025-06-26,Instagram
+C00517,Customer_517,Luton,2025-05-21,Email
+C00518,Customer_518,Leeds,2025-07-08,Google Ads
+C00519,Customer_519,Bristol,2025-02-18,Instagram
+C00520,Customer_520,London,2025-10-29,Google Ads
+C00521,Customer_521,Manchester,2026-01-04,Instagram
+C00522,Customer_522,Luton,2025-07-09,Referral
+C00523,Customer_523,Bristol,2025-05-16,Organic
+C00524,Customer_524,Leeds,2025-02-12,Instagram
+C00525,Customer_525,Leeds,2026-02-08,Organic
+C00526,Customer_526,Manchester,2026-01-15,Instagram
+C00527,Customer_527,Luton,2025-12-19,Google Ads
+C00528,Customer_528,London,2025-03-31,Referral
+C00529,Customer_529,London,2025-10-22,Organic
+C00530,Customer_530,Leeds,2025-12-07,Instagram
+C00531,Customer_531,Leeds,2025-09-02,Organic
+C00532,Customer_532,Bristol,2026-03-09,Referral
+C00533,Customer_533,Bristol,2025-07-11,Email
+C00534,Customer_534,Manchester,2025-11-14,Email
+C00535,Customer_535,Birmingham,2025-04-16,Referral
+C00536,Customer_536,Bristol,2025-12-29,Referral
+C00537,Customer_537,Leeds,2025-11-06,Organic
+C00538,Customer_538,London,2026-01-17,Google Ads
+C00539,Customer_539,Manchester,2025-08-21,Google Ads
+C00540,Customer_540,London,2025-09-22,Referral
+C00541,Customer_541,Bristol,2025-12-10,Email
+C00542,Customer_542,Manchester,2025-02-06,Organic
+C00543,Customer_543,London,2025-11-01,Email
+C00544,Customer_544,Birmingham,2025-02-10,Instagram
+C00545,Customer_545,Manchester,2025-01-17,Instagram
+C00546,Customer_546,Luton,2025-12-10,Organic
+C00547,Customer_547,London,2025-10-04,Organic
+C00548,Customer_548,Birmingham,2025-11-03,Instagram
+C00549,Customer_549,Manchester,2025-02-28,Instagram
+C00550,Customer_550,Leeds,2026-02-27,Organic
+C00551,Customer_551,Manchester,2025-07-02,Instagram
+C00552,Customer_552,Leeds,2025-02-10,Referral
+C00553,Customer_553,Manchester,2025-02-08,Referral
+C00554,Customer_554,Manchester,2026-02-01,Email
+C00555,Customer_555,Leeds,2025-07-11,Google Ads
+C00556,Customer_556,Luton,2025-09-24,Google Ads
+C00557,Customer_557,London,2025-05-27,Instagram
+C00558,Customer_558,London,2026-01-30,Google Ads
+C00559,Customer_559,Birmingham,2025-11-29,Organic
+C00560,Customer_560,Birmingham,2025-05-07,Organic
+C00561,Customer_561,Birmingham,2025-02-15,Google Ads
+C00562,Customer_562,London,2025-02-14,Organic
+C00563,Customer_563,London,2025-01-01,Google Ads
+C00564,Customer_564,London,2025-06-17,Organic
+C00565,Customer_565,Luton,2025-04-18,Organic
+C00566,Customer_566,Manchester,2025-01-19,Instagram
+C00567,Customer_567,Luton,2025-11-28,Instagram
+C00568,Customer_568,Luton,2025-03-13,Instagram
+C00569,Customer_569,Bristol,2026-03-21,Organic
+C00570,Customer_570,London,2025-04-19,Organic
+C00571,Customer_571,Manchester,2025-09-25,Instagram
+C00572,Customer_572,Leeds,2026-03-21,Instagram
+C00573,Customer_573,Luton,2025-08-28,Google Ads
+C00574,Customer_574,Birmingham,2026-02-21,Google Ads
+C00575,Customer_575,Leeds,2025-10-28,Email
+C00576,Customer_576,Bristol,2025-03-31,Google Ads
+C00577,Customer_577,London,2025-04-13,Google Ads
+C00578,Customer_578,Bristol,2025-09-07,Instagram
+C00579,Customer_579,Manchester,2025-01-08,Google Ads
+C00580,Customer_580,London,2025-06-02,Google Ads
+C00581,Customer_581,Manchester,2025-12-13,Google Ads
+C00582,Customer_582,Bristol,2025-06-23,Referral
+C00583,Customer_583,Manchester,2025-12-09,Organic
+C00584,Customer_584,London,2025-06-07,Organic
+C00585,Customer_585,Birmingham,2026-03-07,Google Ads
+C00586,Customer_586,London,2025-08-03,Referral
+C00587,Customer_587,London,2025-06-26,Organic
+C00588,Customer_588,London,2025-06-24,Email
+C00589,Customer_589,London,2025-12-06,Google Ads
+C00590,Customer_590,London,2025-12-04,Email
+C00591,Customer_591,London,2025-05-26,Email
+C00592,Customer_592,Birmingham,2026-03-26,Google Ads
+C00593,Customer_593,London,2025-11-20,Organic
+C00594,Customer_594,London,2025-06-10,Organic
+C00595,Customer_595,Leeds,2025-05-07,Organic
+C00596,Customer_596,Manchester,2026-02-24,Instagram
+C00597,Customer_597,Birmingham,2025-03-23,Organic
+C00598,Customer_598,London,2025-05-27,Google Ads
+C00599,Customer_599,London,2025-08-27,Google Ads
+C00600,Customer_600,London,2026-02-16,Email
+C00601,Customer_601,London,2026-02-28,Organic
+C00602,Customer_602,London,2025-03-25,Organic
+C00603,Customer_603,London,2025-04-23,Organic
+C00604,Customer_604,London,2025-08-13,Email
+C00605,Customer_605,London,2025-11-28,Instagram
+C00606,Customer_606,Manchester,2026-01-13,Organic
+C00607,Customer_607,London,2025-08-31,Organic
+C00608,Customer_608,Luton,2025-05-23,Organic
+C00609,Customer_609,Manchester,2025-02-10,Organic
+C00610,Customer_610,Birmingham,2026-02-27,Email
+C00611,Customer_611,London,2025-09-15,Referral
+C00612,Customer_612,Leeds,2026-03-23,Google Ads
+C00613,Customer_613,Birmingham,2025-10-12,Referral
+C00614,Customer_614,London,2025-04-15,Organic
+C00615,Customer_615,Leeds,2025-07-21,Instagram
+C00616,Customer_616,Bristol,2026-03-26,Referral
+C00617,Customer_617,London,2025-11-03,Google Ads
+C00618,Customer_618,London,2025-11-27,Referral
+C00619,Customer_619,Leeds,2025-09-23,Organic
+C00620,Customer_620,Birmingham,2026-02-02,Organic
+C00621,Customer_621,London,2025-07-29,Organic
+C00622,Customer_622,London,2025-02-20,Google Ads
+C00623,Customer_623,Luton,2025-04-28,Instagram
+C00624,Customer_624,Manchester,2025-07-20,Email
+C00625,Customer_625,Manchester,2026-01-12,Instagram
+C00626,Customer_626,Luton,2025-02-08,Referral
+C00627,Customer_627,Manchester,2025-01-28,Referral
+C00628,Customer_628,Birmingham,2025-09-16,Organic
+C00629,Customer_629,London,2025-03-25,Google Ads
+C00630,Customer_630,London,2025-06-04,Organic
+C00631,Customer_631,Birmingham,2025-04-27,Instagram
+C00632,Customer_632,Leeds,2025-01-02,Email
+C00633,Customer_633,Manchester,2025-04-03,Organic
+C00634,Customer_634,Manchester,2025-06-15,Instagram
+C00635,Customer_635,London,2026-01-22,Instagram
+C00636,Customer_636,Luton,2026-02-04,Instagram
+C00637,Customer_637,Manchester,2025-12-16,Google Ads
+C00638,Customer_638,London,2025-10-23,Google Ads
+C00639,Customer_639,London,2025-09-15,Organic
+C00640,Customer_640,Luton,2025-03-22,Organic
+C00641,Customer_641,London,2026-03-01,Organic
+C00642,Customer_642,London,2025-09-25,Instagram
+C00643,Customer_643,London,2026-02-23,Organic
+C00644,Customer_644,London,2025-08-23,Referral
+C00645,Customer_645,London,2025-11-17,Google Ads
+C00646,Customer_646,Leeds,2025-11-07,Instagram
+C00647,Customer_647,Manchester,2025-10-28,Google Ads
+C00648,Customer_648,Birmingham,2025-12-23,Instagram
+C00649,Customer_649,Leeds,2025-08-01,Email
+C00650,Customer_650,Manchester,2025-03-03,Organic
+C00651,Customer_651,London,2025-02-18,Organic
+C00652,Customer_652,Manchester,2025-05-07,Referral
+C00653,Customer_653,Manchester,2025-08-11,Organic
+C00654,Customer_654,Birmingham,2026-02-13,Organic
+C00655,Customer_655,Luton,2025-10-06,Google Ads
+C00656,Customer_656,London,2026-02-12,Organic
+C00657,Customer_657,London,2025-10-21,Instagram
+C00658,Customer_658,Luton,2025-10-11,Organic
+C00659,Customer_659,Birmingham,2025-10-04,Referral
+C00660,Customer_660,Manchester,2026-03-14,Referral
+C00661,Customer_661,Luton,2025-04-17,Instagram
+C00662,Customer_662,Bristol,2025-05-26,Instagram
+C00663,Customer_663,Manchester,2026-02-24,Referral
+C00664,Customer_664,London,2025-04-09,Organic
+C00665,Customer_665,London,2026-03-05,Referral
+C00666,Customer_666,London,2026-01-10,Referral
+C00667,Customer_667,London,2025-03-14,Instagram
+C00668,Customer_668,London,2026-03-13,Instagram
+C00669,Customer_669,London,2025-05-02,Organic
+C00670,Customer_670,London,2025-01-30,Google Ads
+C00671,Customer_671,London,2025-07-07,Referral
+C00672,Customer_672,Leeds,2025-12-30,Organic
+C00673,Customer_673,London,2025-12-20,Referral
+C00674,Customer_674,Manchester,2025-10-15,Organic
+C00675,Customer_675,Luton,2025-07-14,Organic
+C00676,Customer_676,Bristol,2025-06-05,Organic
+C00677,Customer_677,London,2025-06-21,Organic
+C00678,Customer_678,Luton,2025-12-01,Google Ads
+C00679,Customer_679,Bristol,2025-02-10,Organic
+C00680,Customer_680,Leeds,2025-03-04,Email
+C00681,Customer_681,Leeds,2025-01-23,Instagram
+C00682,Customer_682,London,2025-12-26,Organic
+C00683,Customer_683,London,2025-03-16,Instagram
+C00684,Customer_684,Birmingham,2025-02-17,Referral
+C00685,Customer_685,Bristol,2025-06-09,Instagram
+C00686,Customer_686,Manchester,2025-11-09,Organic
+C00687,Customer_687,Manchester,2025-04-28,Referral
+C00688,Customer_688,London,2025-04-10,Referral
+C00689,Customer_689,Birmingham,2026-01-15,Organic
+C00690,Customer_690,London,2026-02-21,Organic
+C00691,Customer_691,London,2026-02-12,Instagram
+C00692,Customer_692,Luton,2025-06-16,Organic
+C00693,Customer_693,Manchester,2025-10-17,Referral
+C00694,Customer_694,London,2026-03-16,Google Ads
+C00695,Customer_695,London,2025-06-05,Email
+C00696,Customer_696,Manchester,2026-02-25,Instagram
+C00697,Customer_697,London,2025-01-07,Organic
+C00698,Customer_698,Manchester,2025-07-15,Organic
+C00699,Customer_699,London,2026-02-25,Instagram
+C00700,Customer_700,Manchester,2025-02-25,Referral
+C00701,Customer_701,Manchester,2025-11-17,Referral
+C00702,Customer_702,London,2025-07-12,Organic
+C00703,Customer_703,London,2025-02-16,Organic
+C00704,Customer_704,London,2025-05-28,Organic
+C00705,Customer_705,London,2025-10-02,Instagram
+C00706,Customer_706,Bristol,2025-06-06,Organic
+C00707,Customer_707,London,2025-07-21,Google Ads
+C00708,Customer_708,Leeds,2026-03-20,Instagram
+C00709,Customer_709,London,2026-02-06,Email
+C00710,Customer_710,Birmingham,2026-02-23,Google Ads
+C00711,Customer_711,Birmingham,2026-03-03,Organic
+C00712,Customer_712,Manchester,2025-05-06,Instagram
+C00713,Customer_713,Manchester,2026-01-30,Instagram
+C00714,Customer_714,Luton,2025-11-01,Google Ads
+C00715,Customer_715,London,2026-01-04,Email
+C00716,Customer_716,Bristol,2025-10-21,Referral
+C00717,Customer_717,Leeds,2025-03-05,Organic
+C00718,Customer_718,Bristol,2025-11-21,Organic
+C00719,Customer_719,London,2026-01-27,Google Ads
+C00720,Customer_720,Birmingham,2026-02-22,Referral
+C00721,Customer_721,Bristol,2025-06-25,Organic
+C00722,Customer_722,London,2025-04-26,Instagram
+C00723,Customer_723,London,2026-03-16,Instagram
+C00724,Customer_724,Birmingham,2025-07-23,Organic
+C00725,Customer_725,Manchester,2025-11-17,Instagram
+C00726,Customer_726,Leeds,2025-01-31,Email
+C00727,Customer_727,London,2026-01-23,Organic
+C00728,Customer_728,Leeds,2025-04-23,Google Ads
+C00729,Customer_729,London,2025-12-31,Google Ads
+C00730,Customer_730,London,2026-03-10,Referral
+C00731,Customer_731,London,2025-11-21,Email
+C00732,Customer_732,Leeds,2026-02-18,Google Ads
+C00733,Customer_733,Birmingham,2026-01-11,Referral
+C00734,Customer_734,Manchester,2025-12-10,Google Ads
+C00735,Customer_735,Luton,2026-03-19,Google Ads
+C00736,Customer_736,Leeds,2025-03-08,Organic
+C00737,Customer_737,Luton,2025-03-16,Organic
+C00738,Customer_738,Leeds,2025-02-14,Organic
+C00739,Customer_739,Luton,2025-09-17,Instagram
+C00740,Customer_740,Luton,2025-06-03,Organic
+C00741,Customer_741,Manchester,2025-06-04,Email
+C00742,Customer_742,London,2026-03-06,Organic
+C00743,Customer_743,Birmingham,2025-12-29,Organic
+C00744,Customer_744,Manchester,2026-03-24,Google Ads
+C00745,Customer_745,London,2025-08-22,Instagram
+C00746,Customer_746,Leeds,2025-02-20,Organic
+C00747,Customer_747,Luton,2025-11-02,Google Ads
+C00748,Customer_748,Manchester,2025-09-19,Email
+C00749,Customer_749,Bristol,2025-11-11,Organic
+C00750,Customer_750,Birmingham,2025-05-05,Google Ads
+C00751,Customer_751,London,2026-02-03,Referral
+C00752,Customer_752,Bristol,2025-09-02,Organic
+C00753,Customer_753,Birmingham,2025-01-30,Google Ads
+C00754,Customer_754,London,2026-03-02,Google Ads
+C00755,Customer_755,London,2025-05-02,Google Ads
+C00756,Customer_756,Leeds,2025-05-05,Organic
+C00757,Customer_757,Birmingham,2025-02-06,Organic
+C00758,Customer_758,Manchester,2025-06-19,Google Ads
+C00759,Customer_759,Leeds,2025-05-04,Organic
+C00760,Customer_760,Leeds,2025-12-23,Referral
+C00761,Customer_761,London,2025-02-04,Google Ads
+C00762,Customer_762,London,2025-03-28,Google Ads
+C00763,Customer_763,London,2025-05-14,Referral
+C00764,Customer_764,Birmingham,2025-07-15,Instagram
+C00765,Customer_765,London,2025-10-01,Organic
+C00766,Customer_766,Manchester,2025-07-20,Email
+C00767,Customer_767,Birmingham,2026-01-04,Organic
+C00768,Customer_768,Leeds,2025-10-12,Organic
+C00769,Customer_769,London,2025-03-18,Referral
+C00770,Customer_770,Leeds,2025-02-28,Google Ads
+C00771,Customer_771,London,2026-03-07,Google Ads
+C00772,Customer_772,Leeds,2025-05-06,Organic
+C00773,Customer_773,London,2026-02-05,Google Ads
+C00774,Customer_774,Luton,2025-04-19,Organic
+C00775,Customer_775,Leeds,2025-08-12,Email
+C00776,Customer_776,London,2025-10-05,Organic
+C00777,Customer_777,London,2025-03-09,Referral
+C00778,Customer_778,Birmingham,2025-03-10,Instagram
+C00779,Customer_779,Birmingham,2025-06-14,Referral
+C00780,Customer_780,Birmingham,2025-11-01,Instagram
+C00781,Customer_781,Birmingham,2026-02-01,Instagram
+C00782,Customer_782,Manchester,2025-06-11,Google Ads
+C00783,Customer_783,London,2025-12-31,Organic
+C00784,Customer_784,London,2025-12-08,Organic
+C00785,Customer_785,London,2025-11-05,Referral
+C00786,Customer_786,Bristol,2026-01-14,Referral
+C00787,Customer_787,Manchester,2025-12-09,Google Ads
+C00788,Customer_788,Luton,2026-03-11,Organic
+C00789,Customer_789,Manchester,2026-01-22,Google Ads
+C00790,Customer_790,Bristol,2025-02-11,Instagram
+C00791,Customer_791,London,2025-12-20,Google Ads
+C00792,Customer_792,Manchester,2026-02-20,Referral
+C00793,Customer_793,Manchester,2025-04-19,Email
+C00794,Customer_794,Manchester,2025-02-20,Organic
+C00795,Customer_795,London,2025-09-07,Google Ads
+C00796,Customer_796,Leeds,2025-12-07,Google Ads
+C00797,Customer_797,Bristol,2026-03-06,Google Ads
+C00798,Customer_798,Manchester,2026-01-18,Organic
+C00799,Customer_799,Birmingham,2025-01-21,Organic
+C00800,Customer_800,Bristol,2025-10-27,Referral
+C00801,Customer_801,Birmingham,2025-05-19,Google Ads
+C00802,Customer_802,London,2025-12-25,Google Ads
+C00803,Customer_803,Manchester,2025-11-20,Email
+C00804,Customer_804,Manchester,2026-01-20,Referral
+C00805,Customer_805,Luton,2025-04-02,Organic
+C00806,Customer_806,Birmingham,2026-03-23,Instagram
+C00807,Customer_807,Bristol,2025-10-07,Google Ads
+C00808,Customer_808,Bristol,2025-05-05,Referral
+C00809,Customer_809,Manchester,2026-02-01,Instagram
+C00810,Customer_810,London,2025-04-21,Instagram
+C00811,Customer_811,Bristol,2025-12-20,Google Ads
+C00812,Customer_812,Leeds,2025-05-19,Referral
+C00813,Customer_813,London,2026-03-11,Organic
+C00814,Customer_814,Bristol,2025-09-30,Organic
+C00815,Customer_815,Leeds,2025-04-09,Google Ads
+C00816,Customer_816,Manchester,2025-09-09,Organic
+C00817,Customer_817,Manchester,2025-12-04,Organic
+C00818,Customer_818,Luton,2025-04-14,Referral
+C00819,Customer_819,London,2025-08-02,Email
+C00820,Customer_820,London,2025-09-06,Google Ads
+C00821,Customer_821,Leeds,2025-06-01,Organic
+C00822,Customer_822,London,2025-09-07,Organic
+C00823,Customer_823,London,2025-10-02,Organic
+C00824,Customer_824,Luton,2025-06-14,Organic
+C00825,Customer_825,Manchester,2025-12-07,Email
+C00826,Customer_826,Bristol,2025-01-08,Organic
+C00827,Customer_827,London,2025-10-11,Google Ads
+C00828,Customer_828,London,2025-01-05,Organic
+C00829,Customer_829,Birmingham,2025-05-25,Referral
+C00830,Customer_830,Manchester,2025-04-11,Instagram
+C00831,Customer_831,London,2025-06-13,Email
+C00832,Customer_832,Manchester,2026-01-09,Referral
+C00833,Customer_833,London,2025-05-27,Google Ads
+C00834,Customer_834,London,2025-03-05,Organic
+C00835,Customer_835,Manchester,2025-04-01,Instagram
+C00836,Customer_836,Luton,2025-04-27,Google Ads
+C00837,Customer_837,Bristol,2025-12-20,Instagram
+C00838,Customer_838,Luton,2025-09-24,Organic
+C00839,Customer_839,Manchester,2025-11-06,Organic
+C00840,Customer_840,Birmingham,2025-06-22,Google Ads
+C00841,Customer_841,London,2025-02-16,Instagram
+C00842,Customer_842,Birmingham,2025-05-20,Referral
+C00843,Customer_843,London,2025-09-03,Organic
+C00844,Customer_844,Bristol,2025-05-29,Google Ads
+C00845,Customer_845,London,2025-09-03,Organic
+C00846,Customer_846,Luton,2026-01-30,Organic
+C00847,Customer_847,London,2025-01-05,Google Ads
+C00848,Customer_848,Bristol,2025-07-03,Organic
+C00849,Customer_849,Manchester,2025-01-20,Organic
+C00850,Customer_850,Manchester,2026-03-01,Google Ads
+C00851,Customer_851,London,2025-02-15,Organic
+C00852,Customer_852,Birmingham,2025-01-12,Organic
+C00853,Customer_853,London,2025-03-11,Organic
+C00854,Customer_854,Leeds,2025-01-17,Organic
+C00855,Customer_855,London,2026-01-06,Organic
+C00856,Customer_856,London,2025-05-27,Instagram
+C00857,Customer_857,London,2025-06-03,Organic
+C00858,Customer_858,Manchester,2025-10-31,Organic
+C00859,Customer_859,Manchester,2025-04-18,Google Ads
+C00860,Customer_860,London,2025-08-24,Instagram
+C00861,Customer_861,Leeds,2025-11-04,Referral
+C00862,Customer_862,Manchester,2025-12-18,Referral
+C00863,Customer_863,Manchester,2025-03-11,Instagram
+C00864,Customer_864,Luton,2025-07-02,Google Ads
+C00865,Customer_865,Luton,2025-09-07,Instagram
+C00866,Customer_866,Manchester,2025-08-16,Instagram
+C00867,Customer_867,London,2025-04-12,Organic
+C00868,Customer_868,London,2025-03-16,Organic
+C00869,Customer_869,Leeds,2026-02-21,Organic
+C00870,Customer_870,Bristol,2026-03-22,Email
+C00871,Customer_871,Luton,2025-08-04,Google Ads
+C00872,Customer_872,London,2026-02-11,Instagram
+C00873,Customer_873,Birmingham,2026-02-03,Google Ads
+C00874,Customer_874,Luton,2026-02-15,Google Ads
+C00875,Customer_875,London,2025-07-22,Organic
+C00876,Customer_876,London,2025-07-11,Organic
+C00877,Customer_877,Birmingham,2025-09-06,Referral
+C00878,Customer_878,Birmingham,2025-08-30,Instagram
+C00879,Customer_879,London,2025-06-28,Google Ads
+C00880,Customer_880,London,2026-03-13,Referral
+C00881,Customer_881,London,2025-08-07,Organic
+C00882,Customer_882,Birmingham,2025-03-23,Email
+C00883,Customer_883,London,2025-04-02,Google Ads
+C00884,Customer_884,London,2026-03-11,Google Ads
+C00885,Customer_885,Leeds,2025-06-24,Google Ads
+C00886,Customer_886,London,2025-08-27,Organic
+C00887,Customer_887,Birmingham,2025-09-17,Organic
+C00888,Customer_888,London,2026-01-26,Instagram
+C00889,Customer_889,London,2025-12-31,Referral
+C00890,Customer_890,London,2025-06-12,Referral
+C00891,Customer_891,Birmingham,2025-02-17,Organic
+C00892,Customer_892,Leeds,2025-11-25,Google Ads
+C00893,Customer_893,Leeds,2025-11-24,Organic
+C00894,Customer_894,Luton,2025-04-26,Organic
+C00895,Customer_895,Birmingham,2026-03-05,Instagram
+C00896,Customer_896,London,2025-12-03,Google Ads
+C00897,Customer_897,London,2025-12-03,Organic
+C00898,Customer_898,Leeds,2026-01-04,Organic
+C00899,Customer_899,London,2025-08-13,Email
+C00900,Customer_900,London,2025-12-18,Organic
+C00901,Customer_901,London,2025-11-24,Google Ads
+C00902,Customer_902,London,2025-05-27,Google Ads
+C00903,Customer_903,London,2025-03-04,Organic
+C00904,Customer_904,Manchester,2025-10-21,Organic
+C00905,Customer_905,Luton,2025-11-19,Google Ads
+C00906,Customer_906,Leeds,2026-03-19,Referral
+C00907,Customer_907,Leeds,2025-11-21,Google Ads
+C00908,Customer_908,London,2025-01-13,Instagram
+C00909,Customer_909,London,2026-03-07,Email
+C00910,Customer_910,Luton,2025-07-08,Referral
+C00911,Customer_911,Manchester,2025-10-14,Google Ads
+C00912,Customer_912,London,2025-07-27,Google Ads
+C00913,Customer_913,Birmingham,2025-04-24,Instagram
+C00914,Customer_914,Luton,2025-01-22,Instagram
+C00915,Customer_915,Manchester,2025-12-15,Google Ads
+C00916,Customer_916,Luton,2025-08-02,Instagram
+C00917,Customer_917,London,2025-06-20,Organic
+C00918,Customer_918,Bristol,2025-11-19,Google Ads
+C00919,Customer_919,Birmingham,2025-02-23,Organic
+C00920,Customer_920,London,2026-01-29,Organic
+C00921,Customer_921,Leeds,2025-10-25,Organic
+C00922,Customer_922,Manchester,2025-11-16,Instagram
+C00923,Customer_923,Leeds,2025-05-06,Google Ads
+C00924,Customer_924,Leeds,2025-10-04,Organic
+C00925,Customer_925,Luton,2025-07-23,Google Ads
+C00926,Customer_926,London,2025-07-13,Google Ads
+C00927,Customer_927,London,2025-06-18,Organic
+C00928,Customer_928,Manchester,2025-06-01,Instagram
+C00929,Customer_929,Birmingham,2025-02-04,Referral
+C00930,Customer_930,London,2025-07-03,Referral
+C00931,Customer_931,London,2025-10-13,Instagram
+C00932,Customer_932,Leeds,2025-02-26,Google Ads
+C00933,Customer_933,Bristol,2025-08-10,Organic
+C00934,Customer_934,Manchester,2025-10-30,Organic
+C00935,Customer_935,London,2025-06-12,Organic
+C00936,Customer_936,London,2025-01-19,Email
+C00937,Customer_937,London,2026-01-05,Organic
+C00938,Customer_938,Bristol,2025-09-21,Organic
+C00939,Customer_939,London,2025-10-09,Referral
+C00940,Customer_940,Manchester,2025-04-23,Email
+C00941,Customer_941,London,2025-11-23,Referral
+C00942,Customer_942,Manchester,2025-01-30,Organic
+C00943,Customer_943,Birmingham,2025-05-15,Organic
+C00944,Customer_944,Leeds,2025-03-08,Google Ads
+C00945,Customer_945,London,2025-03-06,Organic
+C00946,Customer_946,London,2025-10-19,Organic
+C00947,Customer_947,London,2025-01-25,Google Ads
+C00948,Customer_948,Bristol,2025-02-06,Email
+C00949,Customer_949,Leeds,2025-01-01,Google Ads
+C00950,Customer_950,Manchester,2026-02-03,Instagram
+C00951,Customer_951,Manchester,2025-02-06,Instagram
+C00952,Customer_952,Birmingham,2025-05-21,Organic
+C00953,Customer_953,London,2025-08-20,Instagram
+C00954,Customer_954,Bristol,2025-05-16,Organic
+C00955,Customer_955,Luton,2026-01-24,Organic
+C00956,Customer_956,Luton,2025-07-07,Instagram
+C00957,Customer_957,Manchester,2025-05-08,Organic
+C00958,Customer_958,London,2025-07-20,Email
+C00959,Customer_959,London,2025-05-07,Organic
+C00960,Customer_960,Birmingham,2025-09-14,Instagram
+C00961,Customer_961,London,2025-06-13,Google Ads
+C00962,Customer_962,Manchester,2025-02-04,Organic
+C00963,Customer_963,London,2025-07-13,Organic
+C00964,Customer_964,Luton,2025-07-10,Instagram
+C00965,Customer_965,London,2025-04-14,Referral
+C00966,Customer_966,Luton,2025-01-23,Referral
+C00967,Customer_967,Birmingham,2025-09-22,Google Ads
+C00968,Customer_968,London,2025-10-17,Referral
+C00969,Customer_969,Manchester,2026-03-06,Instagram
+C00970,Customer_970,Manchester,2026-01-19,Instagram
+C00971,Customer_971,Birmingham,2025-09-17,Google Ads
+C00972,Customer_972,Bristol,2026-02-18,Instagram
+C00973,Customer_973,Birmingham,2025-12-24,Referral
+C00974,Customer_974,London,2025-03-16,Google Ads
+C00975,Customer_975,London,2025-12-21,Referral
+C00976,Customer_976,London,2025-03-13,Instagram
+C00977,Customer_977,Manchester,2025-09-16,Organic
+C00978,Customer_978,London,2026-02-02,Organic
+C00979,Customer_979,Manchester,2025-07-07,Google Ads
+C00980,Customer_980,Manchester,2025-06-22,Google Ads
+C00981,Customer_981,London,2025-10-17,Referral
+C00982,Customer_982,Leeds,2025-02-14,Organic
+C00983,Customer_983,London,2025-03-02,Referral
+C00984,Customer_984,London,2025-03-24,Referral
+C00985,Customer_985,Birmingham,2025-05-03,Organic
+C00986,Customer_986,Manchester,2025-12-24,Referral
+C00987,Customer_987,Birmingham,2025-01-16,Email
+C00988,Customer_988,Luton,2025-03-07,Instagram
+C00989,Customer_989,London,2026-02-28,Referral
+C00990,Customer_990,Leeds,2025-05-25,Email
+C00991,Customer_991,Leeds,2026-01-10,Instagram
+C00992,Customer_992,Birmingham,2025-06-11,Google Ads
+C00993,Customer_993,London,2025-08-22,Referral
+C00994,Customer_994,Manchester,2026-01-15,Instagram
+C00995,Customer_995,Luton,2025-05-24,Instagram
+C00996,Customer_996,London,2025-12-24,Organic
+C00997,Customer_997,Bristol,2025-07-07,Referral
+C00998,Customer_998,London,2025-11-18,Organic
+C00999,Customer_999,Bristol,2026-03-26,Email
+C01000,Customer_1000,Luton,2025-01-13,Google Ads
+C01001,Customer_1001,London,2025-07-03,Organic
+C01002,Customer_1002,Manchester,2025-04-21,Google Ads
+C01003,Customer_1003,Leeds,2026-02-19,Organic
+C01004,Customer_1004,Birmingham,2025-10-17,Instagram
+C01005,Customer_1005,Leeds,2025-10-22,Email
+C01006,Customer_1006,Birmingham,2026-01-27,Referral
+C01007,Customer_1007,Birmingham,2025-08-03,Organic
+C01008,Customer_1008,Leeds,2025-04-30,Organic
+C01009,Customer_1009,London,2026-01-17,Referral
+C01010,Customer_1010,Manchester,2025-02-24,Email
+C01011,Customer_1011,London,2025-01-27,Google Ads
+C01012,Customer_1012,Bristol,2025-04-28,Google Ads
+C01013,Customer_1013,Bristol,2025-08-09,Google Ads
+C01014,Customer_1014,London,2025-08-19,Referral
+C01015,Customer_1015,Birmingham,2025-02-22,Instagram
+C01016,Customer_1016,Bristol,2025-10-22,Organic
+C01017,Customer_1017,London,2025-11-17,Organic
+C01018,Customer_1018,Manchester,2026-02-05,Referral
+C01019,Customer_1019,Bristol,2025-08-21,Organic
+C01020,Customer_1020,London,2025-06-07,Google Ads
+C01021,Customer_1021,Birmingham,2026-03-13,Instagram
+C01022,Customer_1022,London,2025-09-26,Organic
+C01023,Customer_1023,Bristol,2025-01-21,Organic
+C01024,Customer_1024,Bristol,2026-02-07,Referral
+C01025,Customer_1025,Bristol,2025-02-22,Referral
+C01026,Customer_1026,Manchester,2025-10-02,Referral
+C01027,Customer_1027,Leeds,2025-11-09,Referral
+C01028,Customer_1028,Leeds,2025-10-08,Instagram
+C01029,Customer_1029,London,2025-08-02,Referral
+C01030,Customer_1030,Leeds,2025-01-31,Google Ads
+C01031,Customer_1031,London,2025-12-03,Instagram
+C01032,Customer_1032,Manchester,2025-07-02,Email
+C01033,Customer_1033,London,2025-01-23,Organic
+C01034,Customer_1034,London,2025-02-01,Google Ads
+C01035,Customer_1035,London,2026-03-22,Google Ads
+C01036,Customer_1036,Birmingham,2025-03-15,Organic
+C01037,Customer_1037,London,2025-01-10,Organic
+C01038,Customer_1038,Birmingham,2025-02-23,Referral
+C01039,Customer_1039,London,2025-02-21,Email
+C01040,Customer_1040,London,2025-05-28,Google Ads
+C01041,Customer_1041,Manchester,2025-06-09,Organic
+C01042,Customer_1042,Leeds,2026-01-05,Organic
+C01043,Customer_1043,London,2025-01-14,Referral
+C01044,Customer_1044,Birmingham,2025-06-27,Google Ads
+C01045,Customer_1045,Leeds,2026-02-16,Google Ads
+C01046,Customer_1046,Manchester,2026-01-01,Google Ads
+C01047,Customer_1047,London,2025-02-22,Google Ads
+C01048,Customer_1048,London,2026-02-12,Google Ads
+C01049,Customer_1049,Leeds,2025-12-01,Referral
+C01050,Customer_1050,London,2025-01-22,Instagram
+C01051,Customer_1051,Leeds,2025-01-30,Instagram
+C01052,Customer_1052,Manchester,2025-07-10,Google Ads
+C01053,Customer_1053,Bristol,2025-09-17,Instagram
+C01054,Customer_1054,Leeds,2025-07-24,Instagram
+C01055,Customer_1055,Bristol,2025-02-28,Organic
+C01056,Customer_1056,Luton,2025-09-21,Instagram
+C01057,Customer_1057,Birmingham,2025-01-12,Organic
+C01058,Customer_1058,Luton,2025-04-29,Referral
+C01059,Customer_1059,Manchester,2026-02-19,Google Ads
+C01060,Customer_1060,Birmingham,2025-10-17,Email
+C01061,Customer_1061,Leeds,2025-12-04,Organic
+C01062,Customer_1062,Bristol,2025-09-05,Referral
+C01063,Customer_1063,Birmingham,2025-12-20,Instagram
+C01064,Customer_1064,Luton,2025-05-07,Referral
+C01065,Customer_1065,Luton,2025-03-16,Google Ads
+C01066,Customer_1066,Birmingham,2025-12-27,Google Ads
+C01067,Customer_1067,London,2025-07-23,Referral
+C01068,Customer_1068,London,2025-02-18,Organic
+C01069,Customer_1069,Luton,2025-03-20,Organic
+C01070,Customer_1070,London,2026-03-17,Instagram
+C01071,Customer_1071,London,2025-08-29,Google Ads
+C01072,Customer_1072,London,2025-12-15,Organic
+C01073,Customer_1073,London,2025-06-03,Organic
+C01074,Customer_1074,London,2025-10-01,Organic
+C01075,Customer_1075,Bristol,2025-04-06,Referral
+C01076,Customer_1076,Luton,2025-08-02,Instagram
+C01077,Customer_1077,Luton,2025-10-21,Referral
+C01078,Customer_1078,Birmingham,2025-07-28,Email
+C01079,Customer_1079,London,2025-12-09,Google Ads
+C01080,Customer_1080,Bristol,2025-03-29,Organic
+C01081,Customer_1081,Leeds,2025-11-02,Organic
+C01082,Customer_1082,London,2025-09-21,Organic
+C01083,Customer_1083,Luton,2026-03-01,Email
+C01084,Customer_1084,Leeds,2026-01-25,Google Ads
+C01085,Customer_1085,Bristol,2025-11-21,Organic
+C01086,Customer_1086,Manchester,2026-03-04,Google Ads
+C01087,Customer_1087,Manchester,2026-01-12,Instagram
+C01088,Customer_1088,London,2025-11-16,Instagram
+C01089,Customer_1089,Bristol,2025-06-06,Organic
+C01090,Customer_1090,London,2025-06-05,Email
+C01091,Customer_1091,Bristol,2025-05-19,Google Ads
+C01092,Customer_1092,Birmingham,2025-05-01,Organic
+C01093,Customer_1093,Manchester,2025-03-06,Referral
+C01094,Customer_1094,Manchester,2025-04-17,Organic
+C01095,Customer_1095,London,2025-05-27,Email
+C01096,Customer_1096,London,2025-05-17,Email
+C01097,Customer_1097,London,2026-02-15,Instagram
+C01098,Customer_1098,London,2025-06-11,Referral
+C01099,Customer_1099,Leeds,2026-03-04,Google Ads
+C01100,Customer_1100,Luton,2025-04-10,Email
+C01101,Customer_1101,London,2025-12-04,Google Ads
+C01102,Customer_1102,Bristol,2026-02-03,Instagram
+C01103,Customer_1103,Leeds,2025-11-03,Email
+C01104,Customer_1104,Bristol,2025-05-21,Email
+C01105,Customer_1105,Bristol,2025-03-24,Referral
+C01106,Customer_1106,London,2025-06-26,Google Ads
+C01107,Customer_1107,Luton,2025-07-17,Email
+C01108,Customer_1108,Birmingham,2025-04-22,Instagram
+C01109,Customer_1109,Birmingham,2025-02-25,Email
+C01110,Customer_1110,London,2025-06-28,Instagram
+C01111,Customer_1111,Leeds,2026-02-25,Google Ads
+C01112,Customer_1112,London,2026-02-05,Google Ads
+C01113,Customer_1113,London,2025-07-05,Instagram
+C01114,Customer_1114,Manchester,2025-08-06,Referral
+C01115,Customer_1115,Manchester,2026-02-17,Google Ads
+C01116,Customer_1116,Manchester,2026-02-21,Instagram
+C01117,Customer_1117,London,2025-11-12,Google Ads
+C01118,Customer_1118,Leeds,2025-08-05,Referral
+C01119,Customer_1119,London,2025-04-30,Google Ads
+C01120,Customer_1120,London,2026-03-15,Organic
+C01121,Customer_1121,Leeds,2026-01-29,Organic
+C01122,Customer_1122,Bristol,2025-06-24,Organic
+C01123,Customer_1123,Leeds,2025-01-23,Google Ads
+C01124,Customer_1124,Leeds,2025-08-01,Organic
+C01125,Customer_1125,Birmingham,2026-02-09,Organic
+C01126,Customer_1126,Manchester,2025-08-23,Email
+C01127,Customer_1127,London,2025-01-13,Referral
+C01128,Customer_1128,Luton,2025-04-11,Google Ads
+C01129,Customer_1129,Luton,2026-02-21,Email
+C01130,Customer_1130,London,2025-01-24,Organic
+C01131,Customer_1131,Birmingham,2025-12-30,Instagram
+C01132,Customer_1132,Manchester,2025-01-11,Instagram
+C01133,Customer_1133,London,2025-09-30,Google Ads
+C01134,Customer_1134,London,2026-03-07,Google Ads
+C01135,Customer_1135,Birmingham,2025-10-08,Google Ads
+C01136,Customer_1136,London,2025-04-04,Google Ads
+C01137,Customer_1137,Leeds,2025-07-20,Instagram
+C01138,Customer_1138,Manchester,2025-01-21,Organic
+C01139,Customer_1139,Manchester,2025-12-06,Organic
+C01140,Customer_1140,Manchester,2025-07-30,Organic
+C01141,Customer_1141,Leeds,2025-05-20,Organic
+C01142,Customer_1142,London,2025-10-20,Google Ads
+C01143,Customer_1143,Birmingham,2025-10-25,Organic
+C01144,Customer_1144,Manchester,2026-02-05,Referral
+C01145,Customer_1145,London,2025-04-11,Organic
+C01146,Customer_1146,Leeds,2025-10-31,Organic
+C01147,Customer_1147,Leeds,2025-12-25,Instagram
+C01148,Customer_1148,Birmingham,2025-01-28,Organic
+C01149,Customer_1149,Leeds,2025-02-10,Instagram
+C01150,Customer_1150,Leeds,2025-12-21,Instagram
+C01151,Customer_1151,Birmingham,2025-10-30,Organic
+C01152,Customer_1152,Leeds,2025-05-26,Organic
+C01153,Customer_1153,Birmingham,2025-09-13,Google Ads
+C01154,Customer_1154,Birmingham,2025-08-15,Organic
+C01155,Customer_1155,Manchester,2025-08-24,Organic
+C01156,Customer_1156,Birmingham,2025-12-27,Organic
+C01157,Customer_1157,London,2026-01-15,Organic
+C01158,Customer_1158,Leeds,2025-01-13,Google Ads
+C01159,Customer_1159,Leeds,2025-07-29,Instagram
+C01160,Customer_1160,London,2025-08-17,Instagram
+C01161,Customer_1161,Leeds,2026-02-01,Organic
+C01162,Customer_1162,London,2025-04-10,Organic
+C01163,Customer_1163,London,2025-01-31,Referral
+C01164,Customer_1164,Birmingham,2026-01-21,Instagram
+C01165,Customer_1165,London,2025-01-16,Referral
+C01166,Customer_1166,Leeds,2025-05-17,Google Ads
+C01167,Customer_1167,Leeds,2025-11-25,Instagram
+C01168,Customer_1168,Manchester,2025-06-15,Google Ads
+C01169,Customer_1169,London,2025-11-06,Google Ads
+C01170,Customer_1170,London,2026-03-16,Google Ads
+C01171,Customer_1171,Manchester,2025-04-10,Google Ads
+C01172,Customer_1172,Bristol,2025-04-19,Organic
+C01173,Customer_1173,Birmingham,2025-12-09,Google Ads
+C01174,Customer_1174,London,2025-06-22,Referral
+C01175,Customer_1175,Birmingham,2025-08-25,Email
+C01176,Customer_1176,Manchester,2025-06-11,Google Ads
+C01177,Customer_1177,Leeds,2026-01-28,Google Ads
+C01178,Customer_1178,London,2025-08-04,Organic
+C01179,Customer_1179,Birmingham,2025-09-21,Instagram
+C01180,Customer_1180,Manchester,2025-09-20,Google Ads
+C01181,Customer_1181,Bristol,2025-10-19,Email
+C01182,Customer_1182,London,2025-10-01,Google Ads
+C01183,Customer_1183,Birmingham,2025-01-03,Google Ads
+C01184,Customer_1184,Bristol,2025-01-28,Instagram
+C01185,Customer_1185,London,2025-11-22,Referral
+C01186,Customer_1186,Bristol,2026-03-04,Google Ads
+C01187,Customer_1187,Birmingham,2025-05-29,Google Ads
+C01188,Customer_1188,London,2025-01-28,Email
+C01189,Customer_1189,London,2025-11-06,Organic
+C01190,Customer_1190,Birmingham,2026-03-14,Referral
+C01191,Customer_1191,London,2025-03-06,Organic
+C01192,Customer_1192,Manchester,2025-12-22,Referral
+C01193,Customer_1193,London,2025-01-21,Instagram
+C01194,Customer_1194,Birmingham,2025-09-09,Google Ads
+C01195,Customer_1195,London,2025-08-23,Referral
+C01196,Customer_1196,Leeds,2025-08-15,Organic
+C01197,Customer_1197,Bristol,2025-01-13,Organic
+C01198,Customer_1198,Bristol,2025-11-09,Instagram
+C01199,Customer_1199,Birmingham,2025-02-18,Google Ads
+C01200,Customer_1200,London,2025-04-28,Instagram
+C01201,Customer_1201,Birmingham,2025-02-23,Organic
+C01202,Customer_1202,London,2025-05-18,Organic
+C01203,Customer_1203,London,2025-02-22,Organic
+C01204,Customer_1204,London,2025-02-13,Organic
+C01205,Customer_1205,Manchester,2025-10-30,Google Ads
+C01206,Customer_1206,Leeds,2025-02-22,Referral
+C01207,Customer_1207,Birmingham,2025-03-15,Email
+C01208,Customer_1208,Luton,2025-02-15,Referral
+C01209,Customer_1209,London,2025-01-13,Organic
+C01210,Customer_1210,Bristol,2025-06-14,Google Ads
+C01211,Customer_1211,Luton,2025-04-12,Organic
+C01212,Customer_1212,Manchester,2025-10-07,Organic
+C01213,Customer_1213,London,2025-09-15,Google Ads
+C01214,Customer_1214,Leeds,2025-12-03,Organic
+C01215,Customer_1215,Birmingham,2025-12-22,Organic
+C01216,Customer_1216,London,2026-02-02,Email
+C01217,Customer_1217,London,2025-05-18,Google Ads
+C01218,Customer_1218,Birmingham,2025-06-12,Google Ads
+C01219,Customer_1219,Birmingham,2026-02-13,Organic
+C01220,Customer_1220,London,2026-01-22,Organic
+C01221,Customer_1221,Bristol,2025-04-21,Referral
+C01222,Customer_1222,London,2025-04-12,Organic
+C01223,Customer_1223,Luton,2025-01-17,Google Ads
+C01224,Customer_1224,Bristol,2025-09-25,Organic
+C01225,Customer_1225,Luton,2025-07-01,Google Ads
+C01226,Customer_1226,Birmingham,2026-01-07,Organic
+C01227,Customer_1227,Luton,2025-01-24,Referral
+C01228,Customer_1228,London,2025-01-29,Referral
+C01229,Customer_1229,Bristol,2025-06-20,Referral
+C01230,Customer_1230,Luton,2026-02-13,Organic
+C01231,Customer_1231,Leeds,2025-08-16,Referral
+C01232,Customer_1232,London,2026-01-13,Google Ads
+C01233,Customer_1233,London,2025-07-07,Google Ads
+C01234,Customer_1234,London,2025-12-12,Instagram
+C01235,Customer_1235,Birmingham,2025-08-18,Organic
+C01236,Customer_1236,Luton,2025-11-17,Organic
+C01237,Customer_1237,Leeds,2025-12-06,Instagram
+C01238,Customer_1238,Manchester,2025-04-29,Organic
+C01239,Customer_1239,Bristol,2025-06-05,Instagram
+C01240,Customer_1240,London,2025-09-29,Google Ads
+C01241,Customer_1241,Leeds,2025-06-24,Referral
+C01242,Customer_1242,Leeds,2025-04-14,Email
+C01243,Customer_1243,Leeds,2025-04-02,Referral
+C01244,Customer_1244,Leeds,2025-07-05,Organic
+C01245,Customer_1245,Birmingham,2025-10-10,Organic
+C01246,Customer_1246,Birmingham,2025-06-30,Google Ads
+C01247,Customer_1247,London,2025-06-19,Organic
+C01248,Customer_1248,London,2025-07-06,Organic
+C01249,Customer_1249,Bristol,2025-06-24,Instagram
+C01250,Customer_1250,Manchester,2025-08-10,Google Ads
+C01251,Customer_1251,Leeds,2025-08-21,Email
+C01252,Customer_1252,Manchester,2025-06-11,Organic
+C01253,Customer_1253,London,2026-02-25,Organic
+C01254,Customer_1254,London,2025-05-14,Organic
+C01255,Customer_1255,Birmingham,2026-01-26,Email
+C01256,Customer_1256,Luton,2025-08-12,Referral
+C01257,Customer_1257,London,2025-06-02,Referral
+C01258,Customer_1258,Manchester,2025-02-02,Email
+C01259,Customer_1259,London,2025-02-24,Google Ads
+C01260,Customer_1260,Manchester,2026-03-18,Google Ads
+C01261,Customer_1261,London,2025-01-07,Google Ads
+C01262,Customer_1262,Leeds,2025-09-01,Instagram
+C01263,Customer_1263,London,2025-11-09,Google Ads
+C01264,Customer_1264,Manchester,2025-05-06,Google Ads
+C01265,Customer_1265,London,2025-01-12,Email
+C01266,Customer_1266,London,2025-01-16,Email
+C01267,Customer_1267,Luton,2025-07-27,Referral
+C01268,Customer_1268,Manchester,2025-02-12,Referral
+C01269,Customer_1269,Manchester,2026-01-08,Instagram
+C01270,Customer_1270,London,2025-05-15,Organic
+C01271,Customer_1271,Birmingham,2025-08-16,Organic
+C01272,Customer_1272,Leeds,2025-04-21,Instagram
+C01273,Customer_1273,Leeds,2025-11-03,Instagram
+C01274,Customer_1274,London,2025-06-09,Organic
+C01275,Customer_1275,Manchester,2025-11-27,Email
+C01276,Customer_1276,London,2025-09-21,Organic
+C01277,Customer_1277,London,2025-08-13,Organic
+C01278,Customer_1278,Bristol,2025-08-05,Instagram
+C01279,Customer_1279,London,2025-02-14,Organic
+C01280,Customer_1280,Manchester,2025-08-02,Organic
+C01281,Customer_1281,Manchester,2025-02-28,Google Ads
+C01282,Customer_1282,Birmingham,2025-05-12,Referral
+C01283,Customer_1283,Manchester,2025-04-14,Google Ads
+C01284,Customer_1284,London,2025-07-14,Instagram
+C01285,Customer_1285,London,2026-02-17,Instagram
+C01286,Customer_1286,Manchester,2025-06-06,Organic
+C01287,Customer_1287,London,2025-04-08,Email
+C01288,Customer_1288,Luton,2025-08-14,Organic
+C01289,Customer_1289,London,2026-02-16,Email
+C01290,Customer_1290,London,2025-07-24,Google Ads
+C01291,Customer_1291,Luton,2025-03-20,Email
+C01292,Customer_1292,London,2025-05-04,Organic
+C01293,Customer_1293,Manchester,2026-03-04,Google Ads
+C01294,Customer_1294,Birmingham,2025-08-06,Organic
+C01295,Customer_1295,Leeds,2025-01-04,Organic
+C01296,Customer_1296,London,2025-03-31,Instagram
+C01297,Customer_1297,London,2025-04-14,Organic
+C01298,Customer_1298,London,2026-01-28,Instagram
+C01299,Customer_1299,Birmingham,2025-04-29,Organic
+C01300,Customer_1300,Birmingham,2025-05-13,Google Ads
+C01301,Customer_1301,London,2025-11-08,Referral
+C01302,Customer_1302,Bristol,2025-04-06,Google Ads
+C01303,Customer_1303,London,2026-03-10,Instagram
+C01304,Customer_1304,Manchester,2025-11-27,Instagram
+C01305,Customer_1305,Birmingham,2025-05-23,Referral
+C01306,Customer_1306,Leeds,2025-10-15,Google Ads
+C01307,Customer_1307,Birmingham,2025-01-28,Instagram
+C01308,Customer_1308,Leeds,2025-10-05,Email
+C01309,Customer_1309,London,2025-08-21,Instagram
+C01310,Customer_1310,Leeds,2025-01-17,Google Ads
+C01311,Customer_1311,London,2025-02-28,Instagram
+C01312,Customer_1312,Leeds,2025-03-31,Instagram
+C01313,Customer_1313,Manchester,2025-07-18,Instagram
+C01314,Customer_1314,Leeds,2025-12-28,Organic
+C01315,Customer_1315,Manchester,2026-03-17,Organic
+C01316,Customer_1316,Birmingham,2025-01-26,Referral
+C01317,Customer_1317,Manchester,2025-01-25,Organic
+C01318,Customer_1318,Birmingham,2026-01-29,Instagram
+C01319,Customer_1319,London,2025-10-28,Google Ads
+C01320,Customer_1320,London,2025-12-05,Google Ads
+C01321,Customer_1321,London,2025-09-24,Organic
+C01322,Customer_1322,London,2025-06-30,Organic
+C01323,Customer_1323,Leeds,2025-12-26,Email
+C01324,Customer_1324,London,2025-03-09,Referral
+C01325,Customer_1325,Bristol,2025-12-17,Instagram
+C01326,Customer_1326,London,2026-02-16,Google Ads
+C01327,Customer_1327,London,2025-11-17,Instagram
+C01328,Customer_1328,Leeds,2025-02-18,Instagram
+C01329,Customer_1329,Birmingham,2025-06-24,Instagram
+C01330,Customer_1330,Manchester,2025-02-21,Organic
+C01331,Customer_1331,Manchester,2025-04-12,Instagram
+C01332,Customer_1332,Birmingham,2025-08-04,Referral
+C01333,Customer_1333,London,2026-03-14,Email
+C01334,Customer_1334,Bristol,2025-07-07,Organic
+C01335,Customer_1335,Bristol,2025-02-26,Instagram
+C01336,Customer_1336,Birmingham,2025-02-16,Instagram
+C01337,Customer_1337,London,2025-06-08,Google Ads
+C01338,Customer_1338,Birmingham,2025-06-23,Organic
+C01339,Customer_1339,London,2025-08-30,Google Ads
+C01340,Customer_1340,London,2025-10-09,Google Ads
+C01341,Customer_1341,London,2025-08-29,Google Ads
+C01342,Customer_1342,Manchester,2026-01-05,Instagram
+C01343,Customer_1343,Leeds,2025-01-05,Instagram
+C01344,Customer_1344,Birmingham,2025-03-25,Instagram
+C01345,Customer_1345,Birmingham,2025-11-04,Email
+C01346,Customer_1346,Luton,2025-12-27,Google Ads
+C01347,Customer_1347,London,2025-09-05,Organic
+C01348,Customer_1348,Luton,2025-02-23,Instagram
+C01349,Customer_1349,Bristol,2025-06-10,Organic
+C01350,Customer_1350,London,2026-03-10,Google Ads
+C01351,Customer_1351,Leeds,2026-02-26,Organic
+C01352,Customer_1352,Manchester,2026-02-15,Organic
+C01353,Customer_1353,Luton,2025-08-14,Referral
+C01354,Customer_1354,Birmingham,2025-01-15,Organic
+C01355,Customer_1355,Manchester,2025-08-12,Google Ads
+C01356,Customer_1356,Leeds,2025-03-02,Organic
+C01357,Customer_1357,Bristol,2025-05-02,Instagram
+C01358,Customer_1358,Luton,2025-10-04,Google Ads
+C01359,Customer_1359,London,2025-02-15,Instagram
+C01360,Customer_1360,Manchester,2026-01-25,Google Ads
+C01361,Customer_1361,Bristol,2025-10-21,Organic
+C01362,Customer_1362,London,2025-03-03,Google Ads
+C01363,Customer_1363,Birmingham,2025-03-27,Organic
+C01364,Customer_1364,Birmingham,2026-03-22,Google Ads
+C01365,Customer_1365,Birmingham,2025-07-29,Google Ads
+C01366,Customer_1366,London,2025-03-19,Email
+C01367,Customer_1367,Birmingham,2025-07-21,Organic
+C01368,Customer_1368,Bristol,2025-10-29,Instagram
+C01369,Customer_1369,London,2026-02-01,Organic
+C01370,Customer_1370,London,2025-08-11,Google Ads
+C01371,Customer_1371,Bristol,2025-08-10,Google Ads
+C01372,Customer_1372,London,2025-01-03,Email
+C01373,Customer_1373,Leeds,2025-01-06,Organic
+C01374,Customer_1374,Manchester,2025-04-03,Organic
+C01375,Customer_1375,London,2025-01-08,Google Ads
+C01376,Customer_1376,Leeds,2026-03-04,Organic
+C01377,Customer_1377,Luton,2025-08-23,Organic
+C01378,Customer_1378,Manchester,2025-04-18,Instagram
+C01379,Customer_1379,Luton,2025-06-10,Organic
+C01380,Customer_1380,Manchester,2025-07-28,Organic
+C01381,Customer_1381,London,2025-08-28,Instagram
+C01382,Customer_1382,Luton,2025-11-27,Google Ads
+C01383,Customer_1383,Bristol,2025-11-29,Organic
+C01384,Customer_1384,London,2025-02-19,Organic
+C01385,Customer_1385,Birmingham,2025-01-11,Instagram
+C01386,Customer_1386,London,2025-12-17,Organic
+C01387,Customer_1387,Leeds,2025-06-05,Google Ads
+C01388,Customer_1388,London,2025-03-11,Organic
+C01389,Customer_1389,Bristol,2025-06-18,Instagram
+C01390,Customer_1390,Manchester,2025-09-29,Google Ads
+C01391,Customer_1391,London,2025-03-09,Instagram
+C01392,Customer_1392,London,2025-12-21,Referral
+C01393,Customer_1393,London,2025-09-09,Instagram
+C01394,Customer_1394,Manchester,2025-02-17,Organic
+C01395,Customer_1395,London,2025-07-03,Organic
+C01396,Customer_1396,Leeds,2025-11-16,Google Ads
+C01397,Customer_1397,Luton,2025-07-06,Organic
+C01398,Customer_1398,London,2025-03-31,Organic
+C01399,Customer_1399,Manchester,2026-03-22,Referral
+C01400,Customer_1400,Birmingham,2025-11-28,Google Ads
+C01401,Customer_1401,London,2025-05-19,Google Ads
+C01402,Customer_1402,London,2025-12-23,Instagram
+C01403,Customer_1403,London,2025-03-30,Instagram
+C01404,Customer_1404,Birmingham,2025-10-01,Organic
+C01405,Customer_1405,Birmingham,2025-01-19,Referral
+C01406,Customer_1406,Manchester,2025-11-07,Organic
+C01407,Customer_1407,Leeds,2025-12-24,Instagram
+C01408,Customer_1408,Leeds,2026-01-09,Referral
+C01409,Customer_1409,Manchester,2025-06-03,Instagram
+C01410,Customer_1410,Leeds,2026-01-25,Instagram
+C01411,Customer_1411,London,2025-09-17,Organic
+C01412,Customer_1412,London,2025-04-18,Google Ads
+C01413,Customer_1413,London,2026-01-06,Instagram
+C01414,Customer_1414,London,2025-10-12,Google Ads
+C01415,Customer_1415,Manchester,2025-02-28,Referral
+C01416,Customer_1416,Bristol,2025-05-05,Google Ads
+C01417,Customer_1417,London,2025-12-20,Organic
+C01418,Customer_1418,London,2025-09-30,Organic
+C01419,Customer_1419,Manchester,2025-04-17,Google Ads
+C01420,Customer_1420,Bristol,2025-10-26,Instagram
+C01421,Customer_1421,London,2025-09-02,Instagram
+C01422,Customer_1422,Manchester,2025-12-02,Instagram
+C01423,Customer_1423,London,2026-03-26,Referral
+C01424,Customer_1424,London,2026-02-22,Referral
+C01425,Customer_1425,Bristol,2025-09-04,Referral
+C01426,Customer_1426,Bristol,2025-01-08,Organic
+C01427,Customer_1427,London,2025-05-21,Instagram
+C01428,Customer_1428,Bristol,2025-12-28,Organic
+C01429,Customer_1429,Birmingham,2025-01-08,Organic
+C01430,Customer_1430,Leeds,2025-12-18,Instagram
+C01431,Customer_1431,Manchester,2025-04-04,Google Ads
+C01432,Customer_1432,Manchester,2025-11-17,Organic
+C01433,Customer_1433,Manchester,2026-03-03,Organic
+C01434,Customer_1434,Birmingham,2025-02-08,Organic
+C01435,Customer_1435,London,2025-03-22,Email
+C01436,Customer_1436,London,2025-07-06,Organic
+C01437,Customer_1437,London,2025-03-25,Organic
+C01438,Customer_1438,Birmingham,2025-03-29,Google Ads
+C01439,Customer_1439,London,2025-08-30,Google Ads
+C01440,Customer_1440,Birmingham,2025-12-08,Email
+C01441,Customer_1441,Bristol,2025-04-03,Organic
+C01442,Customer_1442,London,2025-03-27,Google Ads
+C01443,Customer_1443,Birmingham,2025-02-13,Instagram
+C01444,Customer_1444,Luton,2025-05-17,Email
+C01445,Customer_1445,Leeds,2026-02-25,Instagram
+C01446,Customer_1446,London,2025-03-15,Referral
+C01447,Customer_1447,Birmingham,2025-02-05,Organic
+C01448,Customer_1448,Leeds,2025-04-11,Google Ads
+C01449,Customer_1449,Bristol,2025-06-05,Google Ads
+C01450,Customer_1450,Birmingham,2026-03-02,Referral
+C01451,Customer_1451,Manchester,2025-09-12,Organic
+C01452,Customer_1452,Manchester,2025-06-20,Organic
+C01453,Customer_1453,Leeds,2025-08-04,Google Ads
+C01454,Customer_1454,Manchester,2025-06-19,Organic
+C01455,Customer_1455,London,2025-09-09,Organic
+C01456,Customer_1456,Bristol,2025-12-26,Email
+C01457,Customer_1457,Birmingham,2025-11-18,Google Ads
+C01458,Customer_1458,Birmingham,2025-02-24,Instagram
+C01459,Customer_1459,London,2026-03-08,Instagram
+C01460,Customer_1460,Birmingham,2025-04-01,Google Ads
+C01461,Customer_1461,Luton,2025-10-05,Organic
+C01462,Customer_1462,Birmingham,2025-04-11,Organic
+C01463,Customer_1463,London,2025-06-04,Google Ads
+C01464,Customer_1464,Birmingham,2026-01-12,Instagram
+C01465,Customer_1465,Bristol,2025-12-15,Google Ads
+C01466,Customer_1466,London,2025-12-30,Organic
+C01467,Customer_1467,Bristol,2025-05-21,Google Ads
+C01468,Customer_1468,Luton,2025-06-22,Email
+C01469,Customer_1469,Leeds,2025-01-10,Referral
+C01470,Customer_1470,Leeds,2025-08-16,Referral
+C01471,Customer_1471,Manchester,2025-09-22,Referral
+C01472,Customer_1472,Birmingham,2026-03-14,Google Ads
+C01473,Customer_1473,Leeds,2025-09-05,Referral
+C01474,Customer_1474,Luton,2025-09-04,Organic
+C01475,Customer_1475,London,2025-06-04,Instagram
+C01476,Customer_1476,Birmingham,2025-02-03,Instagram
+C01477,Customer_1477,Leeds,2025-05-09,Organic
+C01478,Customer_1478,Birmingham,2025-06-09,Referral
+C01479,Customer_1479,Leeds,2025-03-30,Email
+C01480,Customer_1480,Luton,2025-04-03,Organic
+C01481,Customer_1481,Leeds,2025-11-23,Referral
+C01482,Customer_1482,London,2025-08-29,Organic
+C01483,Customer_1483,Manchester,2025-11-19,Instagram
+C01484,Customer_1484,London,2026-02-08,Google Ads
+C01485,Customer_1485,London,2025-04-27,Google Ads
+C01486,Customer_1486,Luton,2025-04-04,Email
+C01487,Customer_1487,Luton,2025-06-12,Referral
+C01488,Customer_1488,Birmingham,2025-04-09,Referral
+C01489,Customer_1489,Luton,2025-04-23,Organic
+C01490,Customer_1490,Luton,2025-12-25,Email
+C01491,Customer_1491,London,2025-04-01,Organic
+C01492,Customer_1492,Luton,2025-12-12,Referral
+C01493,Customer_1493,London,2025-07-25,Google Ads
+C01494,Customer_1494,London,2025-01-17,Organic
+C01495,Customer_1495,Manchester,2025-10-01,Instagram
+C01496,Customer_1496,Birmingham,2025-06-22,Organic
+C01497,Customer_1497,Manchester,2025-04-26,Organic
+C01498,Customer_1498,Manchester,2025-12-15,Google Ads
+C01499,Customer_1499,Luton,2025-06-30,Organic
+C01500,Customer_1500,Leeds,2025-04-01,Organic
+C01501,Customer_1501,Manchester,2025-03-23,Organic
+C01502,Customer_1502,Manchester,2025-11-20,Google Ads
+C01503,Customer_1503,London,2026-03-25,Organic
+C01504,Customer_1504,London,2025-04-24,Instagram
+C01505,Customer_1505,Luton,2025-09-14,Organic
+C01506,Customer_1506,Luton,2025-02-27,Email
+C01507,Customer_1507,Manchester,2025-06-03,Referral
+C01508,Customer_1508,Manchester,2025-12-31,Organic
+C01509,Customer_1509,Manchester,2026-02-08,Referral
+C01510,Customer_1510,Birmingham,2025-04-26,Referral
+C01511,Customer_1511,Leeds,2025-12-09,Email
+C01512,Customer_1512,Birmingham,2025-09-23,Instagram
+C01513,Customer_1513,Bristol,2025-11-11,Organic
+C01514,Customer_1514,London,2025-07-22,Instagram
+C01515,Customer_1515,London,2025-02-10,Instagram
+C01516,Customer_1516,London,2025-04-15,Instagram
+C01517,Customer_1517,Birmingham,2026-01-24,Google Ads
+C01518,Customer_1518,Leeds,2026-01-13,Referral
+C01519,Customer_1519,London,2025-07-12,Email
+C01520,Customer_1520,Bristol,2026-02-05,Organic
+C01521,Customer_1521,London,2025-10-05,Organic
+C01522,Customer_1522,Bristol,2025-12-20,Organic
+C01523,Customer_1523,Luton,2025-08-25,Referral
+C01524,Customer_1524,London,2026-03-01,Instagram
+C01525,Customer_1525,Manchester,2025-08-09,Instagram
+C01526,Customer_1526,London,2025-03-09,Google Ads
+C01527,Customer_1527,London,2025-07-16,Instagram
+C01528,Customer_1528,London,2025-09-13,Google Ads
+C01529,Customer_1529,Leeds,2025-05-19,Google Ads
+C01530,Customer_1530,Manchester,2025-11-08,Referral
+C01531,Customer_1531,London,2026-03-11,Email
+C01532,Customer_1532,Manchester,2025-05-29,Email
+C01533,Customer_1533,Birmingham,2025-04-09,Email
+C01534,Customer_1534,London,2025-03-17,Google Ads
+C01535,Customer_1535,Luton,2025-10-09,Google Ads
+C01536,Customer_1536,London,2026-01-06,Instagram
+C01537,Customer_1537,London,2026-02-07,Email
+C01538,Customer_1538,Birmingham,2025-04-19,Organic
+C01539,Customer_1539,London,2025-07-07,Google Ads
+C01540,Customer_1540,Manchester,2025-07-18,Organic
+C01541,Customer_1541,Birmingham,2025-10-30,Instagram
+C01542,Customer_1542,London,2025-11-23,Google Ads
+C01543,Customer_1543,Manchester,2025-06-03,Google Ads
+C01544,Customer_1544,London,2025-02-09,Organic
+C01545,Customer_1545,Bristol,2025-05-13,Google Ads
+C01546,Customer_1546,Manchester,2026-02-09,Referral
+C01547,Customer_1547,Leeds,2025-05-12,Organic
+C01548,Customer_1548,Manchester,2025-10-06,Instagram
+C01549,Customer_1549,London,2025-12-28,Instagram
+C01550,Customer_1550,Birmingham,2025-03-25,Referral
+C01551,Customer_1551,Bristol,2026-02-03,Organic
+C01552,Customer_1552,Manchester,2025-08-30,Email
+C01553,Customer_1553,Leeds,2025-04-26,Instagram
+C01554,Customer_1554,Leeds,2025-04-19,Email
+C01555,Customer_1555,London,2025-08-09,Email
+C01556,Customer_1556,London,2026-01-27,Organic
+C01557,Customer_1557,Manchester,2025-02-10,Organic
+C01558,Customer_1558,Luton,2026-01-03,Organic
+C01559,Customer_1559,Leeds,2025-05-27,Google Ads
+C01560,Customer_1560,Bristol,2025-04-22,Organic
+C01561,Customer_1561,Luton,2025-04-13,Organic
+C01562,Customer_1562,London,2025-02-15,Google Ads
+C01563,Customer_1563,Leeds,2026-02-16,Organic
+C01564,Customer_1564,London,2025-11-20,Organic
+C01565,Customer_1565,Leeds,2026-01-13,Google Ads
+C01566,Customer_1566,Luton,2025-09-28,Organic
+C01567,Customer_1567,Birmingham,2026-02-25,Google Ads
+C01568,Customer_1568,London,2026-01-20,Google Ads
+C01569,Customer_1569,Birmingham,2025-07-14,Google Ads
+C01570,Customer_1570,Manchester,2026-01-02,Referral
+C01571,Customer_1571,Manchester,2025-10-07,Google Ads
+C01572,Customer_1572,London,2025-10-10,Google Ads
+C01573,Customer_1573,Birmingham,2025-02-09,Google Ads
+C01574,Customer_1574,Leeds,2026-03-23,Referral
+C01575,Customer_1575,London,2025-07-08,Referral
+C01576,Customer_1576,London,2025-06-13,Referral
+C01577,Customer_1577,London,2025-01-24,Instagram
+C01578,Customer_1578,Birmingham,2025-01-24,Organic
+C01579,Customer_1579,Manchester,2025-01-04,Organic
+C01580,Customer_1580,Manchester,2025-11-19,Organic
+C01581,Customer_1581,London,2025-10-17,Email
+C01582,Customer_1582,Luton,2026-03-17,Instagram
+C01583,Customer_1583,Manchester,2026-03-09,Instagram
+C01584,Customer_1584,Manchester,2025-06-30,Google Ads
+C01585,Customer_1585,Bristol,2025-09-05,Referral
+C01586,Customer_1586,London,2025-04-26,Organic
+C01587,Customer_1587,Birmingham,2025-10-06,Organic
+C01588,Customer_1588,Luton,2025-12-31,Google Ads
+C01589,Customer_1589,Luton,2025-03-10,Instagram
+C01590,Customer_1590,Birmingham,2025-12-17,Google Ads
+C01591,Customer_1591,Birmingham,2025-09-11,Referral
+C01592,Customer_1592,Bristol,2025-06-30,Organic
+C01593,Customer_1593,London,2025-11-14,Instagram
+C01594,Customer_1594,London,2025-06-18,Google Ads
+C01595,Customer_1595,Birmingham,2025-11-09,Organic
+C01596,Customer_1596,Manchester,2025-09-06,Referral
+C01597,Customer_1597,London,2025-07-07,Referral
+C01598,Customer_1598,London,2025-02-23,Instagram
+C01599,Customer_1599,London,2025-11-22,Referral
+C01600,Customer_1600,Leeds,2025-12-23,Instagram
+C01601,Customer_1601,London,2025-11-09,Organic
+C01602,Customer_1602,London,2025-05-18,Instagram
+C01603,Customer_1603,London,2025-06-17,Google Ads
+C01604,Customer_1604,Luton,2026-01-26,Organic
+C01605,Customer_1605,London,2025-04-13,Organic
+C01606,Customer_1606,Manchester,2026-02-26,Instagram
+C01607,Customer_1607,London,2025-03-26,Instagram
+C01608,Customer_1608,Leeds,2025-11-13,Organic
+C01609,Customer_1609,London,2025-07-31,Instagram
+C01610,Customer_1610,Manchester,2025-01-03,Email
+C01611,Customer_1611,Leeds,2026-01-19,Organic
+C01612,Customer_1612,Birmingham,2025-06-28,Organic
+C01613,Customer_1613,Manchester,2025-12-08,Referral
+C01614,Customer_1614,London,2025-10-30,Organic
+C01615,Customer_1615,London,2025-11-28,Instagram
+C01616,Customer_1616,Birmingham,2025-02-07,Organic
+C01617,Customer_1617,Bristol,2026-02-24,Google Ads
+C01618,Customer_1618,Birmingham,2025-08-27,Instagram
+C01619,Customer_1619,Manchester,2025-06-18,Instagram
+C01620,Customer_1620,Birmingham,2026-02-01,Referral
+C01621,Customer_1621,Manchester,2025-12-09,Referral
+C01622,Customer_1622,London,2025-11-10,Referral
+C01623,Customer_1623,Manchester,2025-11-02,Instagram
+C01624,Customer_1624,Bristol,2025-01-30,Organic
+C01625,Customer_1625,London,2025-07-09,Google Ads
+C01626,Customer_1626,Birmingham,2025-12-23,Organic
+C01627,Customer_1627,London,2025-01-25,Referral
+C01628,Customer_1628,Manchester,2025-04-22,Google Ads
+C01629,Customer_1629,London,2026-02-15,Instagram
+C01630,Customer_1630,Manchester,2026-03-11,Organic
+C01631,Customer_1631,Birmingham,2025-07-25,Referral
+C01632,Customer_1632,London,2025-07-04,Referral
+C01633,Customer_1633,Birmingham,2026-01-17,Google Ads
+C01634,Customer_1634,Leeds,2026-01-14,Referral
+C01635,Customer_1635,Bristol,2025-02-16,Organic
+C01636,Customer_1636,London,2026-01-09,Google Ads
+C01637,Customer_1637,Luton,2025-08-16,Referral
+C01638,Customer_1638,London,2025-02-08,Google Ads
+C01639,Customer_1639,Bristol,2025-01-16,Email
+C01640,Customer_1640,Bristol,2025-01-22,Organic
+C01641,Customer_1641,Manchester,2025-08-01,Organic
+C01642,Customer_1642,Leeds,2025-11-06,Email
+C01643,Customer_1643,Manchester,2025-05-29,Organic
+C01644,Customer_1644,Birmingham,2025-08-29,Email
+C01645,Customer_1645,London,2025-09-29,Email
+C01646,Customer_1646,Birmingham,2025-02-28,Organic
+C01647,Customer_1647,London,2025-10-14,Google Ads
+C01648,Customer_1648,Leeds,2026-03-02,Organic
+C01649,Customer_1649,Leeds,2025-07-21,Google Ads
+C01650,Customer_1650,Birmingham,2025-02-01,Organic
+C01651,Customer_1651,London,2026-03-19,Organic
+C01652,Customer_1652,London,2025-06-11,Google Ads
+C01653,Customer_1653,London,2025-09-12,Google Ads
+C01654,Customer_1654,Luton,2025-09-11,Email
+C01655,Customer_1655,London,2025-01-09,Referral
+C01656,Customer_1656,Bristol,2025-05-19,Instagram
+C01657,Customer_1657,Manchester,2025-01-10,Google Ads
+C01658,Customer_1658,London,2025-08-02,Referral
+C01659,Customer_1659,Luton,2025-09-30,Google Ads
+C01660,Customer_1660,Luton,2025-11-20,Instagram
+C01661,Customer_1661,Manchester,2025-02-17,Email
+C01662,Customer_1662,Manchester,2026-03-12,Google Ads
+C01663,Customer_1663,Bristol,2025-04-21,Instagram
+C01664,Customer_1664,Manchester,2025-06-02,Referral
+C01665,Customer_1665,Bristol,2025-05-03,Email
+C01666,Customer_1666,Leeds,2026-02-09,Instagram
+C01667,Customer_1667,London,2025-12-23,Organic
+C01668,Customer_1668,Bristol,2025-04-12,Google Ads
+C01669,Customer_1669,London,2025-08-29,Organic
+C01670,Customer_1670,Leeds,2025-11-17,Referral
+C01671,Customer_1671,Luton,2025-07-10,Organic
+C01672,Customer_1672,Leeds,2025-08-05,Referral
+C01673,Customer_1673,Leeds,2025-02-20,Organic
+C01674,Customer_1674,Leeds,2025-10-19,Organic
+C01675,Customer_1675,Leeds,2025-03-22,Google Ads
+C01676,Customer_1676,London,2026-01-18,Instagram
+C01677,Customer_1677,London,2025-03-29,Organic
+C01678,Customer_1678,Luton,2025-07-13,Google Ads
+C01679,Customer_1679,London,2025-04-14,Google Ads
+C01680,Customer_1680,Birmingham,2025-09-28,Organic
+C01681,Customer_1681,London,2025-04-06,Organic
+C01682,Customer_1682,Bristol,2026-02-27,Referral
+C01683,Customer_1683,Birmingham,2026-01-14,Google Ads
+C01684,Customer_1684,Leeds,2025-07-17,Organic
+C01685,Customer_1685,London,2025-01-01,Referral
+C01686,Customer_1686,Leeds,2026-02-11,Email
+C01687,Customer_1687,Bristol,2026-01-13,Instagram
+C01688,Customer_1688,Manchester,2025-06-16,Google Ads
+C01689,Customer_1689,Manchester,2025-05-06,Referral
+C01690,Customer_1690,Birmingham,2025-11-09,Email
+C01691,Customer_1691,London,2025-03-22,Referral
+C01692,Customer_1692,Manchester,2026-02-22,Google Ads
+C01693,Customer_1693,Luton,2025-09-08,Instagram
+C01694,Customer_1694,London,2025-06-18,Instagram
+C01695,Customer_1695,Luton,2025-03-14,Organic
+C01696,Customer_1696,London,2025-05-21,Google Ads
+C01697,Customer_1697,London,2025-03-11,Referral
+C01698,Customer_1698,London,2025-09-19,Instagram
+C01699,Customer_1699,Bristol,2025-12-06,Google Ads
+C01700,Customer_1700,Manchester,2025-11-04,Instagram
+C01701,Customer_1701,Bristol,2025-09-02,Organic
+C01702,Customer_1702,Luton,2025-01-03,Google Ads
+C01703,Customer_1703,London,2025-12-03,Referral
+C01704,Customer_1704,Manchester,2025-03-04,Organic
+C01705,Customer_1705,Luton,2025-02-18,Organic
+C01706,Customer_1706,London,2025-03-17,Email
+C01707,Customer_1707,Birmingham,2026-01-03,Organic
+C01708,Customer_1708,London,2025-06-24,Organic
+C01709,Customer_1709,Manchester,2025-04-19,Email
+C01710,Customer_1710,Birmingham,2025-07-02,Instagram
+C01711,Customer_1711,London,2025-07-11,Instagram
+C01712,Customer_1712,London,2025-03-06,Referral
+C01713,Customer_1713,Leeds,2025-12-03,Organic
+C01714,Customer_1714,Manchester,2025-09-28,Instagram
+C01715,Customer_1715,London,2025-04-10,Google Ads
+C01716,Customer_1716,Bristol,2025-02-01,Referral
+C01717,Customer_1717,London,2025-12-18,Google Ads
+C01718,Customer_1718,Birmingham,2025-05-08,Instagram
+C01719,Customer_1719,Bristol,2026-02-06,Google Ads
+C01720,Customer_1720,London,2026-01-04,Google Ads
+C01721,Customer_1721,London,2025-12-05,Referral
+C01722,Customer_1722,London,2025-02-12,Instagram
+C01723,Customer_1723,London,2026-01-07,Instagram
+C01724,Customer_1724,London,2026-02-23,Google Ads
+C01725,Customer_1725,Birmingham,2025-03-19,Google Ads
+C01726,Customer_1726,London,2025-11-10,Instagram
+C01727,Customer_1727,Manchester,2025-10-16,Referral
+C01728,Customer_1728,Bristol,2025-09-27,Instagram
+C01729,Customer_1729,Leeds,2025-06-11,Email
+C01730,Customer_1730,Manchester,2025-07-08,Referral
+C01731,Customer_1731,London,2025-09-04,Instagram
+C01732,Customer_1732,Birmingham,2026-01-23,Instagram
+C01733,Customer_1733,Manchester,2025-08-04,Email
+C01734,Customer_1734,Luton,2025-11-11,Instagram
+C01735,Customer_1735,London,2026-02-17,Referral
+C01736,Customer_1736,Leeds,2025-12-05,Instagram
+C01737,Customer_1737,Luton,2026-01-25,Instagram
+C01738,Customer_1738,London,2026-01-12,Organic
+C01739,Customer_1739,Luton,2026-03-09,Google Ads
+C01740,Customer_1740,Luton,2025-06-17,Email
+C01741,Customer_1741,Leeds,2025-12-05,Instagram
+C01742,Customer_1742,Birmingham,2025-07-12,Instagram
+C01743,Customer_1743,Birmingham,2025-10-10,Email
+C01744,Customer_1744,London,2025-12-02,Instagram
+C01745,Customer_1745,Luton,2026-01-25,Google Ads
+C01746,Customer_1746,Manchester,2025-01-13,Referral
+C01747,Customer_1747,London,2025-08-28,Instagram
+C01748,Customer_1748,London,2025-11-16,Organic
+C01749,Customer_1749,Birmingham,2026-03-22,Google Ads
+C01750,Customer_1750,London,2025-05-27,Google Ads
+C01751,Customer_1751,Manchester,2025-07-23,Google Ads
+C01752,Customer_1752,London,2025-03-21,Google Ads
+C01753,Customer_1753,London,2026-01-14,Google Ads
+C01754,Customer_1754,London,2025-02-12,Organic
+C01755,Customer_1755,Bristol,2025-03-30,Google Ads
+C01756,Customer_1756,Leeds,2025-05-28,Organic
+C01757,Customer_1757,Bristol,2025-04-05,Instagram
+C01758,Customer_1758,Manchester,2026-03-04,Referral
+C01759,Customer_1759,London,2025-05-31,Instagram
+C01760,Customer_1760,Manchester,2025-01-02,Google Ads
+C01761,Customer_1761,Manchester,2026-01-11,Organic
+C01762,Customer_1762,Leeds,2025-01-22,Organic
+C01763,Customer_1763,London,2026-01-06,Google Ads
+C01764,Customer_1764,Manchester,2025-11-09,Organic
+C01765,Customer_1765,London,2025-11-24,Google Ads
+C01766,Customer_1766,London,2025-01-07,Organic
+C01767,Customer_1767,Birmingham,2025-07-25,Referral
+C01768,Customer_1768,Manchester,2026-03-16,Google Ads
+C01769,Customer_1769,Luton,2026-01-10,Organic
+C01770,Customer_1770,Luton,2025-04-24,Referral
+C01771,Customer_1771,Manchester,2025-09-29,Google Ads
+C01772,Customer_1772,Leeds,2025-03-24,Organic
+C01773,Customer_1773,Leeds,2025-06-28,Instagram
+C01774,Customer_1774,Bristol,2025-07-29,Instagram
+C01775,Customer_1775,Leeds,2025-11-24,Instagram
+C01776,Customer_1776,London,2025-05-04,Organic
+C01777,Customer_1777,Birmingham,2025-04-23,Google Ads
+C01778,Customer_1778,Luton,2025-01-12,Organic
+C01779,Customer_1779,London,2025-05-06,Organic
+C01780,Customer_1780,Leeds,2025-02-22,Referral
+C01781,Customer_1781,London,2025-11-27,Instagram
+C01782,Customer_1782,Bristol,2026-01-24,Google Ads
+C01783,Customer_1783,Manchester,2025-10-10,Instagram
+C01784,Customer_1784,Birmingham,2025-05-20,Organic
+C01785,Customer_1785,Birmingham,2026-02-05,Referral
+C01786,Customer_1786,Leeds,2026-01-25,Organic
+C01787,Customer_1787,Birmingham,2025-04-07,Organic
+C01788,Customer_1788,Manchester,2025-01-05,Google Ads
+C01789,Customer_1789,London,2025-02-26,Instagram
+C01790,Customer_1790,Manchester,2026-02-16,Instagram
+C01791,Customer_1791,London,2025-11-30,Organic
+C01792,Customer_1792,Birmingham,2025-03-10,Google Ads
+C01793,Customer_1793,Manchester,2025-04-28,Google Ads
+C01794,Customer_1794,Birmingham,2026-01-11,Organic
+C01795,Customer_1795,London,2025-02-28,Referral
+C01796,Customer_1796,London,2025-02-02,Organic
+C01797,Customer_1797,Birmingham,2025-11-14,Google Ads
+C01798,Customer_1798,London,2025-02-19,Instagram
+C01799,Customer_1799,London,2026-01-03,Organic
+C01800,Customer_1800,London,2025-01-19,Instagram
+C01801,Customer_1801,Bristol,2025-08-02,Referral
+C01802,Customer_1802,Birmingham,2025-07-16,Organic
+C01803,Customer_1803,Luton,2026-01-14,Email
+C01804,Customer_1804,London,2026-03-26,Instagram
+C01805,Customer_1805,London,2025-02-16,Organic
+C01806,Customer_1806,Leeds,2025-06-16,Google Ads
+C01807,Customer_1807,Birmingham,2025-10-16,Google Ads
+C01808,Customer_1808,London,2025-05-21,Instagram
+C01809,Customer_1809,London,2025-03-25,Referral
+C01810,Customer_1810,London,2025-07-01,Referral
+C01811,Customer_1811,Birmingham,2026-01-26,Email
+C01812,Customer_1812,Birmingham,2025-03-20,Referral
+C01813,Customer_1813,London,2025-08-03,Instagram
+C01814,Customer_1814,London,2025-01-14,Google Ads
+C01815,Customer_1815,London,2025-08-03,Google Ads
+C01816,Customer_1816,Bristol,2026-02-07,Organic
+C01817,Customer_1817,London,2025-05-08,Instagram
+C01818,Customer_1818,Birmingham,2025-11-06,Google Ads
+C01819,Customer_1819,Birmingham,2025-09-05,Organic
+C01820,Customer_1820,Luton,2026-02-08,Organic
+C01821,Customer_1821,London,2025-01-29,Google Ads
+C01822,Customer_1822,London,2025-10-07,Instagram
+C01823,Customer_1823,Manchester,2025-12-04,Google Ads
+C01824,Customer_1824,Leeds,2025-11-15,Instagram
+C01825,Customer_1825,Birmingham,2025-07-21,Google Ads
+C01826,Customer_1826,Manchester,2025-12-27,Instagram
+C01827,Customer_1827,London,2025-02-26,Organic
+C01828,Customer_1828,Bristol,2026-01-27,Organic
+C01829,Customer_1829,Leeds,2025-08-06,Instagram
+C01830,Customer_1830,London,2025-03-03,Google Ads
+C01831,Customer_1831,Bristol,2025-06-06,Organic
+C01832,Customer_1832,Manchester,2025-07-21,Google Ads
+C01833,Customer_1833,Manchester,2025-01-17,Organic
+C01834,Customer_1834,Birmingham,2025-11-18,Google Ads
+C01835,Customer_1835,Leeds,2025-01-06,Google Ads
+C01836,Customer_1836,Birmingham,2025-02-27,Instagram
+C01837,Customer_1837,London,2025-11-21,Referral
+C01838,Customer_1838,London,2026-02-16,Organic
+C01839,Customer_1839,Bristol,2025-11-14,Email
+C01840,Customer_1840,London,2025-06-18,Google Ads
+C01841,Customer_1841,Luton,2025-03-23,Instagram
+C01842,Customer_1842,Luton,2026-03-01,Instagram
+C01843,Customer_1843,Luton,2026-03-09,Instagram
+C01844,Customer_1844,Manchester,2025-08-07,Google Ads
+C01845,Customer_1845,Bristol,2025-06-26,Google Ads
+C01846,Customer_1846,London,2025-07-23,Organic
+C01847,Customer_1847,London,2025-03-12,Organic
+C01848,Customer_1848,London,2026-01-22,Google Ads
+C01849,Customer_1849,Leeds,2025-09-23,Google Ads
+C01850,Customer_1850,Birmingham,2025-04-08,Google Ads
+C01851,Customer_1851,London,2025-12-11,Organic
+C01852,Customer_1852,Leeds,2025-10-18,Instagram
+C01853,Customer_1853,Leeds,2025-07-27,Referral
+C01854,Customer_1854,Leeds,2025-01-02,Email
+C01855,Customer_1855,Bristol,2025-05-04,Google Ads
+C01856,Customer_1856,London,2025-10-07,Instagram
+C01857,Customer_1857,Birmingham,2025-03-15,Referral
+C01858,Customer_1858,Manchester,2025-06-15,Google Ads
+C01859,Customer_1859,Leeds,2025-01-22,Google Ads
+C01860,Customer_1860,Birmingham,2025-06-03,Email
+C01861,Customer_1861,Leeds,2026-03-03,Google Ads
+C01862,Customer_1862,Birmingham,2026-03-15,Google Ads
+C01863,Customer_1863,London,2025-10-22,Organic
+C01864,Customer_1864,Manchester,2025-08-07,Organic
+C01865,Customer_1865,Bristol,2025-06-06,Referral
+C01866,Customer_1866,Bristol,2025-08-18,Instagram
+C01867,Customer_1867,London,2025-01-20,Google Ads
+C01868,Customer_1868,London,2025-02-10,Organic
+C01869,Customer_1869,London,2026-03-14,Instagram
+C01870,Customer_1870,Birmingham,2025-05-28,Instagram
+C01871,Customer_1871,Leeds,2025-04-18,Organic
+C01872,Customer_1872,London,2026-02-07,Referral
+C01873,Customer_1873,Manchester,2025-03-25,Organic
+C01874,Customer_1874,Leeds,2026-01-02,Google Ads
+C01875,Customer_1875,Birmingham,2025-11-18,Instagram
+C01876,Customer_1876,Manchester,2026-02-18,Organic
+C01877,Customer_1877,Manchester,2025-11-05,Referral
+C01878,Customer_1878,Manchester,2025-10-17,Instagram
+C01879,Customer_1879,London,2026-02-10,Referral
+C01880,Customer_1880,Manchester,2025-11-19,Organic
+C01881,Customer_1881,Birmingham,2025-05-14,Organic
+C01882,Customer_1882,Leeds,2025-07-26,Organic
+C01883,Customer_1883,Birmingham,2025-10-10,Google Ads
+C01884,Customer_1884,Birmingham,2025-09-23,Instagram
+C01885,Customer_1885,London,2025-03-14,Referral
+C01886,Customer_1886,Manchester,2025-12-18,Instagram
+C01887,Customer_1887,London,2025-02-17,Email
+C01888,Customer_1888,London,2025-11-22,Instagram
+C01889,Customer_1889,Birmingham,2025-08-21,Google Ads
+C01890,Customer_1890,Bristol,2026-03-19,Organic
+C01891,Customer_1891,London,2025-04-10,Instagram
+C01892,Customer_1892,Luton,2025-02-28,Organic
+C01893,Customer_1893,Leeds,2025-09-15,Organic
+C01894,Customer_1894,London,2026-02-17,Google Ads
+C01895,Customer_1895,Manchester,2025-03-06,Referral
+C01896,Customer_1896,Birmingham,2025-03-24,Organic
+C01897,Customer_1897,Manchester,2025-06-03,Referral
+C01898,Customer_1898,London,2025-09-23,Referral
+C01899,Customer_1899,Luton,2025-11-05,Google Ads
+C01900,Customer_1900,Leeds,2025-03-20,Organic
+C01901,Customer_1901,Manchester,2025-11-11,Organic
+C01902,Customer_1902,London,2025-05-30,Instagram
+C01903,Customer_1903,Birmingham,2026-03-11,Instagram
+C01904,Customer_1904,London,2025-02-17,Referral
+C01905,Customer_1905,Birmingham,2026-02-09,Instagram
+C01906,Customer_1906,London,2026-01-14,Organic
+C01907,Customer_1907,Bristol,2025-09-05,Organic
+C01908,Customer_1908,Luton,2025-10-05,Instagram
+C01909,Customer_1909,London,2025-12-22,Organic
+C01910,Customer_1910,London,2025-04-08,Google Ads
+C01911,Customer_1911,London,2026-02-18,Google Ads
+C01912,Customer_1912,Leeds,2025-01-25,Organic
+C01913,Customer_1913,Bristol,2025-10-11,Organic
+C01914,Customer_1914,Luton,2026-03-25,Google Ads
+C01915,Customer_1915,Luton,2026-01-04,Organic
+C01916,Customer_1916,Birmingham,2025-10-28,Organic
+C01917,Customer_1917,Leeds,2025-03-09,Instagram
+C01918,Customer_1918,Manchester,2025-01-07,Referral
+C01919,Customer_1919,Luton,2025-11-01,Organic
+C01920,Customer_1920,Luton,2025-05-17,Referral
+C01921,Customer_1921,Birmingham,2025-06-13,Google Ads
+C01922,Customer_1922,London,2025-03-24,Google Ads
+C01923,Customer_1923,Manchester,2026-01-20,Referral
+C01924,Customer_1924,Luton,2025-05-18,Instagram
+C01925,Customer_1925,Leeds,2026-02-24,Referral
+C01926,Customer_1926,London,2025-03-14,Organic
+C01927,Customer_1927,Manchester,2025-08-25,Organic
+C01928,Customer_1928,Manchester,2025-02-15,Referral
+C01929,Customer_1929,Birmingham,2025-04-16,Google Ads
+C01930,Customer_1930,London,2026-02-20,Organic
+C01931,Customer_1931,Manchester,2025-10-15,Instagram
+C01932,Customer_1932,Manchester,2025-09-19,Referral
+C01933,Customer_1933,Manchester,2025-06-25,Referral
+C01934,Customer_1934,Manchester,2025-06-15,Google Ads
+C01935,Customer_1935,Birmingham,2025-05-25,Referral
+C01936,Customer_1936,Leeds,2025-11-26,Organic
+C01937,Customer_1937,London,2026-01-05,Organic
+C01938,Customer_1938,Leeds,2025-10-10,Instagram
+C01939,Customer_1939,Manchester,2025-02-23,Organic
+C01940,Customer_1940,London,2025-06-27,Google Ads
+C01941,Customer_1941,London,2026-02-23,Instagram
+C01942,Customer_1942,London,2025-09-01,Google Ads
+C01943,Customer_1943,Leeds,2025-12-07,Organic
+C01944,Customer_1944,Birmingham,2025-05-07,Organic
+C01945,Customer_1945,Leeds,2026-02-13,Google Ads
+C01946,Customer_1946,Manchester,2026-02-16,Google Ads
+C01947,Customer_1947,Luton,2026-01-02,Referral
+C01948,Customer_1948,London,2025-09-28,Referral
+C01949,Customer_1949,London,2025-05-12,Google Ads
+C01950,Customer_1950,Luton,2025-04-03,Referral
+C01951,Customer_1951,London,2026-01-14,Organic
+C01952,Customer_1952,London,2025-03-14,Organic
+C01953,Customer_1953,Manchester,2026-02-15,Referral
+C01954,Customer_1954,Birmingham,2026-02-14,Google Ads
+C01955,Customer_1955,Bristol,2026-02-07,Email
+C01956,Customer_1956,Bristol,2025-09-05,Google Ads
+C01957,Customer_1957,Birmingham,2025-12-14,Referral
+C01958,Customer_1958,Luton,2025-09-30,Google Ads
+C01959,Customer_1959,Birmingham,2025-02-12,Google Ads
+C01960,Customer_1960,Leeds,2026-01-12,Google Ads
+C01961,Customer_1961,London,2025-02-10,Instagram
+C01962,Customer_1962,Luton,2025-06-19,Google Ads
+C01963,Customer_1963,Leeds,2026-03-10,Email
+C01964,Customer_1964,Luton,2025-07-31,Organic
+C01965,Customer_1965,Manchester,2025-06-17,Organic
+C01966,Customer_1966,Manchester,2025-02-08,Google Ads
+C01967,Customer_1967,London,2026-01-04,Instagram
+C01968,Customer_1968,Luton,2025-09-02,Referral
+C01969,Customer_1969,London,2025-05-31,Google Ads
+C01970,Customer_1970,London,2025-04-21,Instagram
+C01971,Customer_1971,London,2026-03-12,Google Ads
+C01972,Customer_1972,Leeds,2025-02-16,Instagram
+C01973,Customer_1973,London,2025-03-04,Referral
+C01974,Customer_1974,Manchester,2025-08-13,Organic
+C01975,Customer_1975,London,2026-01-01,Google Ads
+C01976,Customer_1976,Bristol,2025-03-10,Email
+C01977,Customer_1977,London,2025-10-26,Referral
+C01978,Customer_1978,Luton,2026-03-08,Instagram
+C01979,Customer_1979,Leeds,2025-10-17,Google Ads
+C01980,Customer_1980,Leeds,2025-10-23,Organic
+C01981,Customer_1981,London,2025-07-22,Google Ads
+C01982,Customer_1982,Leeds,2025-03-02,Referral
+C01983,Customer_1983,Manchester,2026-03-10,Instagram
+C01984,Customer_1984,Manchester,2025-11-14,Organic
+C01985,Customer_1985,London,2025-11-10,Organic
+C01986,Customer_1986,London,2025-06-10,Organic
+C01987,Customer_1987,Birmingham,2025-11-27,Organic
+C01988,Customer_1988,Manchester,2025-01-16,Organic
+C01989,Customer_1989,Luton,2025-12-04,Google Ads
+C01990,Customer_1990,Birmingham,2025-04-04,Organic
+C01991,Customer_1991,Birmingham,2025-10-31,Organic
+C01992,Customer_1992,London,2025-05-18,Google Ads
+C01993,Customer_1993,Manchester,2025-12-04,Organic
+C01994,Customer_1994,London,2025-02-07,Organic
+C01995,Customer_1995,Birmingham,2025-05-07,Google Ads
+C01996,Customer_1996,Birmingham,2025-10-02,Organic
+C01997,Customer_1997,Bristol,2025-06-13,Google Ads
+C01998,Customer_1998,London,2026-03-19,Organic
+C01999,Customer_1999,London,2025-11-15,Referral
+C02000,Customer_2000,London,2025-03-18,Email
